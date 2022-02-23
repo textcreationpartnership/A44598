@@ -1,0 +1,1531 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The compleat miner: or A collection of the laws, liberties, ancient customs, rules, orders, articles and privileges of the several mines and miners in the counties of Derby, Gloucester and Somerset together with the art of dialling, and levelling groves, and with an explication of the terms of art used in this book.</title>
+            <author>Houghton, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44598</idno>
+            <idno type="STC">Wing H2926</idno>
+            <idno type="STC">ESTC R215379</idno>
+            <idno type="EEBO-CITATION">99825006</idno>
+            <idno type="PROQUEST">99825006</idno>
+            <idno type="VID">29368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The compleat miner: or A collection of the laws, liberties, ancient customs, rules, orders, articles and privileges of the several mines and miners in the counties of Derby, Gloucester and Somerset together with the art of dialling, and levelling groves, and with an explication of the terms of art used in this book.</title>
+                  <author>Houghton, Thomas, Gent.</author>
+               </titleStmt>
+               <extent>[8], 105, [17].   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Cooper at the Pellican in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle dedicatory" signed: Thomas Houghton.</note>
+                  <note>"An explanation of the miners terms of art used in this book" has caption title; register is continuous.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lead mines and mining --  England --  Early works to 1800.</term>
+               <term>Mining engineering --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29368:1" rendition="simple:additions"/>
+            <p>THE Compleat Miner: OR A COLLECTION OF THE LAWS, LIBERTIES, Ancient Cuſtoms, Rules, Orders, Articles and Privileges of the ſe<g ref="char:EOLhyphen"/>veral Mines and Miners in the Counties of <hi>Derby, Glouceſter</hi> and <hi>Somerſet:</hi> together with the Art of Dialling, and levelling Groves, and with an Explication of the Terms of Art uſed in this Book.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Cooper</hi> at the <hi>Pellican</hi> in <hi>Little Britain.</hi> 1688.</p>
+            <pb facs="tcp:29368:2"/>
+            <pb facs="tcp:29368:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29368:3"/>
+            <pb facs="tcp:29368:3"/>
+            <head>
+               <hi>TO ALL MINERS AND Maintainers of Mines</hi> within the Wapen<g ref="char:EOLhyphen"/>take of <hi>Wirkſworth,</hi> or elſewhere: The Author wiſheth Hap<g ref="char:EOLhyphen"/>pineſs and Proſperity in <hi>LEAD-MINES.</hi>
+            </head>
+            <p>HOneſt Country-men, knowing there is no<g ref="char:EOLhyphen"/>thing extant amongſt you con<g ref="char:EOLhyphen"/>cerning your Liberties, Laws and Cuſtoms, ſave only ſome few Written Copies, which thouſands of Miners and main<g ref="char:EOLhyphen"/>tainers
+<pb facs="tcp:29368:4"/>of Mines have not; nor if they had, would be much the better, by reaſon few can read them: Therefore, that every one that can but read might know the Cuſtoms of the Mines, was the cauſe I publiſht this Book, which will much profit, and be a ready help to all that's concern'd in mineral Affairs; in regard you have here in a <hi>Vade Mecum,</hi> or pocket Com<g ref="char:EOLhyphen"/>panion, not only the Liberties, Laws and Cuſtoms of the Mines, which all miners and maintainers ought to know<g ref="char:punc">▪</g> but you have alſo ſuch other things, as are, or may be neceſ<g ref="char:EOLhyphen"/>ſary to be known to ſuch per<g ref="char:EOLhyphen"/>ſons, as are, or may be concer<g ref="char:EOLhyphen"/>ned
+<pb facs="tcp:29368:4"/>in Tryals upon Juries, or twenty four men; <hi>Bonum quo comunius, eo melius.</hi>
+            </p>
+            <p>I ſhall not ſtand to make Apology for the Book, well knowing <hi>Momo enim judice ter<g ref="char:EOLhyphen"/>tare frustra;</hi> and doubtleſs this may fall into the hands of ſuch Criticks, who <hi>Zoilus</hi> and <hi>Mo<g ref="char:EOLhyphen"/>mus</hi>-like, will be ready to ſpeak ill of what is anothers, but ever fancying and affecting their own; which ſort of ſelf-conceited Opinioniſts I do not think, neither deſire to pleaſe; But if ſuch raſh and haſty Cen<g ref="char:EOLhyphen"/>ſurers might be premoniſht, 'tis requiſite they ſometimes admit their judgments the poſ<g ref="char:EOLhyphen"/>ſibility of erring. To conclude,
+<pb facs="tcp:29368:5"/>'tis thee, honeſt miner, for whom I publiſht this, referring thoſe that are curious to our <hi>Phyloſophia Subterranea,</hi> which perhaps may be publiſht e're long: However, in the inte<g ref="char:EOLhyphen"/>rim, I offer, and not urge, this to their uſes, whoſe occaſions ſhall require it, and reſt a Friend to any ingeniouſly af<g ref="char:EOLhyphen"/>fected.</p>
+            <closer>
+               <signed>From my Lodging in <hi>Warwick-lane,</hi> near the Colledge of Phyſitians, <hi>London.</hi> THOMAS HOUGHTON.</signed>
+               <date>
+                  <hi>Novemb.</hi> 12. 1680.</date>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:29368:5"/>
+            <head>Ad Amicum ſuum valde Ingenium, <hi>Thomam Houghton.</hi>
+            </head>
+            <l>Perdoctae ſobles ſalve cordata <hi>Mi<g ref="char:EOLhyphen"/>nervae,</hi>
+            </l>
+            <l>Scrutatur Terrae; Carmine lectus eris:</l>
+            <l>Tu Mineralia Vincis, Tu docta<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> 
+               <hi>Matheſi</hi>
+            </l>
+            <l>Et, Caeli, terrae viſcera ſumma petis. Hinetua fama volat, quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſpargitur undi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> nomen,</l>
+            <l>Qua<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> capeſſisti vadere perge via.</l>
+            <l>Nunc <hi>RARA AVIS</hi> adi, refera multum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> revolve Magna ſub exiguo Corpore Gaza latet.</l>
+            <closer>
+               <signed>Robertus Webſter.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:29368:6"/>
+            <head>To his loving Friend <hi>THOMAS HO<g ref="char:V">Ʋ</g>GHTON.</hi>
+            </head>
+            <l>
+               <g ref="char:V">Ʋ</g>p Muſe, beſmear the Authors, head with Thus,</l>
+            <l>Give Him's right Name, <hi>Miners Mercurius.</hi>
+            </l>
+            <l>Who Comet-like, all others doth out<g ref="char:EOLhyphen"/>ſhine,</l>
+            <l>Within the Sphere or Circuit of the Mine;</l>
+            <l>Let Miners honour, and their Guide Thee make,</l>
+            <l>For why? 'tis Thee muſt be their Burning-Drake:</l>
+            <l>Therefore, great Meteor, let thy light immenſe,</l>
+            <l>Direct all Miners with its Influence; Give's <hi>Phyloſophia,</hi> which will ſtu<g ref="char:EOLhyphen"/>pifie</l>
+            <l>Our Academicks, and doubtleſs there<g ref="char:EOLhyphen"/>by</l>
+            <l>Thee <hi>(RARA AVIS IN TERRIS)</hi> they'l know</l>
+            <l>T' be th' true <hi>Nigro ſimilliam Cygno.</hi>
+            </l>
+            <closer>
+               <signed>John Howard,</signed> 
+               <dateline>next door to the Half-Moon in <hi>Black-Fryars.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="tcp:29368:6"/>
+            <opener>
+               <dateline>At the Great Court Barmoot for the <hi>Lead-Mines,</hi> held at <hi>Wirksworth,</hi> for the Soak and Wapentake of <hi>Wirks-worth</hi> in the County of <hi>Der by,</hi> 
+                  <date>the 10<hi rend="sup">th.</hi> of <hi>October,</hi> in the year of our Lord 1665.</date>
+               </dateline>
+            </opener>
+            <head>The Inquiſition of the great late Inqueſt, </head>
+            <opener>
+               <signed>taken upon the Oaths of,
+<list>
+                     <item>Ro. Haywood.</item>
+                     <item>Ro. Sage.</item>
+                     <item>Rich. Huxton.</item>
+                     <item>Antho. Cotteril.</item>
+                     <item>Edw. Weatcroft.</item>
+                     <item>John Swallow.</item>
+                     <item>Antho. Gell.</item>
+                     <item>John Creſwel.</item>
+                     <item>John Topliſs.</item>
+                     <item>George Wittacre.</item>
+                     <item>Anthony Lowe.</item>
+                     <item>James Holehouſe.</item>
+                     <item>Ro. Tipping.</item>
+                     <item>Mat. Latham.</item>
+                     <item>Hen Coats.</item>
+                     <item>John Briddon</item>
+                     <item>Edw. Bradſhal</item>
+                     <item>Tho. Daken.</item>
+                     <item>Pet. Rawling</item>
+                     <item>Fran. Worthy.</item>
+                     <item>Edw. Rooper.</item>
+                     <item>John Twigg.</item>
+                     <item>Ralph Huge.</item>
+                     <item>John Rooſe.</item>
+                  </list>
+               </signed>
+            </opener>
+            <div n="1" type="article">
+               <pb n="2" facs="tcp:29368:7"/>
+               <head>ARTICLE I.</head>
+               <p>WE ſay upon our Oaths, That by the ancient Cuſtom of the <hi>Mines</hi> within the Soak and Wa<g ref="char:EOLhyphen"/>pentake of <hi>Wirksworth:</hi> The <hi>Miners</hi> and <hi>Merchants</hi> at firſt choſe them<g ref="char:EOLhyphen"/>ſelves an Officer, called a <hi>Bar-ma<g ref="char:EOLhyphen"/>ſter,</hi> to be an indifferent perſon be<g ref="char:EOLhyphen"/>twixt the Lord of the Field, or Far<g ref="char:EOLhyphen"/>mer, and the <hi>Miners,</hi> and betwixt the Miners and Merchants; which Bar-maſter, upon finding any new Rake or Vein, did (upon notice gi<g ref="char:EOLhyphen"/>ven by the Miner, deliver to the firſt finder two Meers of Ground in the ſame Vein; each Meer in a Rake or Pipe-work containing 29 yards in length, and in a flat-work 14 yards ſquare; The which two Meers of Ground the Miner is to have, one for his diligence in fin<g ref="char:EOLhyphen"/>ding
+<pb n="3" facs="tcp:29368:7"/>the Vein, and the other for mineral Right; paying the Bar-Maſter or his Deputy one Diſh of his firſt Ore therein gotten; and then the Bar-maſter, or his Deputy, is to deliver to the Lord of the Field or Farmer, one Meer of Ground in a new Vein, at either end of the aforeſaid two Meers half a Meer of Ground; and then every one in ſuch Rake or Vein, one Meer, or more, according to their taking.</p>
+            </div>
+            <div n="2" type="article">
+               <head>ART. II.</head>
+               <p>We ſay if any Miner, or any o<g ref="char:EOLhyphen"/>ther perſon ſet on an old Work, then the Bar-maſter or his Deputy is but to deliver him one Meer of ground, on either ſide his Shaft half a Meer of Ground; for which of mineral Right he is to pay one Diſh of his firſt Ore therein gotten; and the Lord of the Field, or Farmer, is to
+<pb n="4" facs="tcp:29368:8"/>have no half Meer in an old Work; but every one is to be ſerved ac<g ref="char:EOLhyphen"/>cording to his taking.</p>
+            </div>
+            <div n="3" type="article">
+               <head>ART. III.</head>
+               <p>We ſay that no one ought to ſet on an old Work, or ancient Poſſeſſion, without the Bar-maſter or his De<g ref="char:EOLhyphen"/>puty, and one or more of the <hi>Grand-Jury,</hi> or twenty four of the Mine.</p>
+            </div>
+            <div n="4" type="article">
+               <head>ART. IV.</head>
+               <p>We ſay, according to the cuſtom of the Mines within the Wapentake of <hi>Wirksworth,</hi> That Grooves, Shafts or Meers of Ground, kept in law<g ref="char:EOLhyphen"/>ful poſſeſſion, are an Eſtate of In<g ref="char:EOLhyphen"/>heritance, and deſcend to the Heirs and Aſſigns of the Owners; and Wives to have Dowry in them.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="5" facs="tcp:29368:8"/>
+               <head>ART. V.</head>
+               <p>We ſay, If any man (to the know<g ref="char:EOLhyphen"/>ledge of the Bar-maſter or his Depu<g ref="char:EOLhyphen"/>ty) be lawfully poſſeſs'd of a Meer or Meers of ground, and does not willingly deſert the ſame, but his <hi>Stows</hi> are gone by ſome ſudden ac<g ref="char:EOLhyphen"/>cident, or indirect means, it ſhall not be lawful for any other perſon to take or poſſeſs ſuch Meer or Meers of ground, till the Bar-maſter or his Deputy ſet him thereon; and the Bar-maſter or his Deputy, be<g ref="char:EOLhyphen"/>fore he ſet gry man on ſuch Meer or Meers of ground, ſhall firſt take with him one or more of the Grand-jury, or four and twenty of the Mine; and go to the place where the Poſ<g ref="char:EOLhyphen"/>ſeſſion, or Poſſeſſions, or <hi>Stows</hi> ſtood, for ſuch Meer or Meers of ground, and then make open pub<g ref="char:EOLhyphen"/>lication in the mineral time of the
+<pb n="6" facs="tcp:29368:9"/>day, That the party or parties whoſe <hi>Stows</hi> ſtood for ſuch Meer or Meers of ground, are gone, or taken away as aforeſaid, that he or they ſhall (within four days after ſuch publi<g ref="char:EOLhyphen"/>cation) come, and make good his or their Poſſeſſions for ſuch Meer or Meers of ground; But if the party fail to make good his or their Poſ<g ref="char:EOLhyphen"/>ſeſſion within four days after, then the Bar-maſter or his Deputy, and the Grand-jury-man, that was at ſuch publication, may ſet on any other man on ſuch Meers of ground, to work according to cuſtom.</p>
+            </div>
+            <div n="6" type="article">
+               <head>ART. VI.</head>
+               <p>We ſay, that the Bar-maſter nor his Deputy, ought to lay forth nor meaſure any man's ground, till Ore be gotten in the ſame ground to free it withall; and when the ground is freed, it ought to be mea<g ref="char:EOLhyphen"/>ſured
+<pb n="7" facs="tcp:29368:9"/>and laid forth, and <hi>Meer-Stakes ſet the ſame day.</hi>
+               </p>
+            </div>
+            <div n="7" type="article">
+               <head>ART. VII.</head>
+               <p>We ſay, that every one ought to keep his ground in good and law<g ref="char:EOLhyphen"/>ful Poſſeſſion, with <hi>Stows</hi> and <hi>Tim<g ref="char:EOLhyphen"/>ber in mens ſight;</hi> and that <hi>Croſſes</hi> and <hi>Holes,</hi> without <hi>Stows</hi> and <hi>Tim<g ref="char:EOLhyphen"/>ber,</hi> can keep Poſſeſſion but three days.</p>
+            </div>
+            <div n="8" type="article">
+               <head>ART. VIII.</head>
+               <p>We ſay, that all men ought to work their ground truly, and chaſe their <hi>Stool</hi> to their grounds end; and ſo each one from <hi>Meer</hi> to <hi>Meer,</hi> according to the cuſtom, unleſs they be juſtly hindred by Water, or for want of Wind; and in ſuch caſes diligence ought to be uſed, to gain Wind, and to get out the Water.</p>
+            </div>
+            <div n="9" type="article">
+               <pb n="8" facs="tcp:29368:10"/>
+               <head>ART. IX.</head>
+               <p>We ſay, that the Bar-maſter, or his Deputy, ought to walk the Mine once a week at leaſt, and where he ſees a Meer of ground, which to his knowledge is lawfully poſſeſſed, to ſtand unwrought three weeks toge<g ref="char:EOLhyphen"/>ther, and might be wrought, not being hindred by Water, or for want of Wind, then he ought, if he can conveniently, to give no<g ref="char:EOLhyphen"/>tice to the parties, that neglect to work according to cuſtom; Then he ſhall nick the <hi>Spindle,</hi> each week a nick, for three weeks together; and if it be not wrought within that time, nor borrowed of the Bar-ma<g ref="char:EOLhyphen"/>ſter or his Deputy, then within two days after the laſt day of the ſaid three weeks, the Bar-maſter or his Deputy may lawfully ſet on another man on ſuch Meer or Meers of
+<pb n="9" facs="tcp:29368:10"/>ground, to work according to cu<g ref="char:EOLhyphen"/>ſtom; and if the Bar-maſter neg<g ref="char:EOLhyphen"/>lect to do his duty herein, he ſhall forfeit five ſhillings to the Lord of the Field, or Farmer.</p>
+            </div>
+            <div n="10" type="article">
+               <head>ART. X.</head>
+               <p>We ſay, that if two ſeveral par<g ref="char:EOLhyphen"/>ties or more ſet Poſſeſſions for one and the ſame thing, claiming for one and the ſame Meer of ground: Thereupon the party grieved ſhall complain to the Bar-maſter, or his Deputy, who ſhall forthwith bring with him four or more of the <hi>Grand-jury,</hi> or four and twenty, to view the Poſſeſſions, and inform themſelves the beſt way they can, who hath the moſt ancient and law<g ref="char:EOLhyphen"/>ful Poſſeſſion for that Meer of ground, and ſhall ſettle the ſame, caſting off the other, and cut out the <hi>Spindle</hi> of ſuch <hi>Stows</hi> as they
+<pb n="10" facs="tcp:29368:11"/>ſo caſt off; And if the party whoſe Poſſeſſions they ſo caſt off, think he hath wrong thereby, and think he hath a good Title to ſuch Meer or Meers of ground, he may put a new <hi>Spindle</hi> into his <hi>Stows;</hi> and any time within fourteen days af<g ref="char:EOLhyphen"/>ter ſuch caſting off, ſet them on a<g ref="char:EOLhyphen"/>gain; thereupon giving the Bar<g ref="char:EOLhyphen"/>maſter or his Deputy four pence, to arreſt ſuch Meer or Meers of ground, and ſo try his Title: But if he ſet on his <hi>Stows,</hi> and do not arreſt with<g ref="char:EOLhyphen"/>in fourteen days after, as aforeſaid, he ſhall incur a fine of fourty ſhil<g ref="char:EOLhyphen"/>lings upon his head for every ſuch Offence; and the Bar-maſter or his Deputy ought forthwith to burn his <hi>Stows,</hi> in the mineral time of the day; And then if he ſets not on a<g ref="char:EOLhyphen"/>nother pair of <hi>Stows,</hi> and alſo ar<g ref="char:EOLhyphen"/>reſt the next day after, his Title to ſuch Meer or Meers of ground ſhall be deemed unlawful, and to have
+<pb n="11" facs="tcp:29368:11"/>no plea for the ſame in <hi>Barmoot-Court.</hi>
+               </p>
+            </div>
+            <div n="11" type="article">
+               <head>ART. XI.</head>
+               <p>We ſay, that the Lord of the Field, or Farmer, ſhall at all times hereafter provide and keep, be<g ref="char:EOLhyphen"/>twixt Merchant, Buyer and Seller, a juſt and right <hi>Meaſure</hi> or <hi>Diſh,</hi> ac<g ref="char:EOLhyphen"/>cording to the ancient Gage, and ſuch a number of them, as ſhall at all times of the year conveniently meaſure all ſuch <hi>Lead-Ore</hi> as is got in the <hi>Wappentake</hi> of <hi>Wirksworth;</hi> and ſuch <hi>Diſhes</hi> ought to be ſeized every quarter of a year, by the <hi>Brazen-Diſh,</hi> in the preſence of four or more of the <hi>Grand-jury,</hi> or twenty four; and for a pain every time failing herein, to forfeit 3 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </p>
+            </div>
+            <div n="12" type="article">
+               <pb n="12" facs="tcp:29368:12"/>
+               <head>ART. XII.</head>
+               <p>We ſay, that by the ſaid <hi>Diſh</hi> or <hi>Meaſure,</hi> the Lord of the Field, or Farmer, is to take his Lot, which is the 13th. <hi>Diſh</hi> or <hi>Meaſure,</hi> as it is juſtly and cuſtomarily paid; But we ſay, that ſmytham nor foreſted <hi>Ore</hi> hath not (within the memory of man) paid, nor ought to pay any duties, or part, but <hi>Cope</hi> only.</p>
+            </div>
+            <div n="13" type="article">
+               <head>ART. XIII.</head>
+               <p>We ſay, that for the payment of the ſaid Lot, <hi>Miners</hi> within the <hi>Wappentake</hi> of <hi>Wirksworth,</hi> ought to have liberty to work the ground within the <hi>Wapentake,</hi> and to have Timber alſo in the King's <hi>Wasts</hi> to work their ground withal, and e<g ref="char:EOLhyphen"/>greſs and regreſs from the High<g ref="char:EOLhyphen"/>ways to their <hi>Grooves</hi> and <hi>Mines.</hi>
+               </p>
+            </div>
+            <div n="14" type="article">
+               <pb n="13" facs="tcp:29368:12"/>
+               <head>ART. XIV.</head>
+               <p>We ſay, that the Bar-maſter, or his Deputy, ought to lay forth the <hi>Miners</hi> the next way to the High<g ref="char:EOLhyphen"/>way, for going and coming to and from their work, and alſo for car<g ref="char:EOLhyphen"/>rying to and from their work, the running Water to waſh their <hi>Ore</hi> withal.</p>
+            </div>
+            <div n="15" type="article">
+               <head>ART. XV.</head>
+               <p>We ſay, (by the cuſtom of the <hi>Mine</hi>) that all Miners and their Servants may waſh their <hi>Ore</hi> with Fat and Sieve upon their Works, ſo that they keep their Fats cloſe covered, and empty their Sludge into ſome convenient place, within their length or quarter Cord, as the Bar-maſter, or his Deputy, ſhall ap<g ref="char:EOLhyphen"/>point, ſo that the Cattel of the ow<g ref="char:EOLhyphen"/>ners
+<pb n="14" facs="tcp:29368:13"/>or occupiers of the Land where ſuch waſhing is, may have no harm.</p>
+            </div>
+            <div n="16" type="article">
+               <head>ART. XVI.</head>
+               <p>We ſay, (by the cuſtom of the Mine within the <hi>Wapentake</hi> of <hi>Wirksworth</hi>) 'tis lawful for all the Liege-people of this Nation to dig, delve, ſubvert, mine and turn up all manner of Grounds, Lands, Mea<g ref="char:EOLhyphen"/>dows, Cloſes, Paſtures, Moors, or Marſhes for <hi>Lead-Ore,</hi> within the ſaid <hi>Wapentake,</hi> of whoſe Inheri<g ref="char:EOLhyphen"/>tance ſoever it is, Dwelling-houſes, High-ways, Orchards, or Gardens excepted; But if any arable grounds Lands, or Meadows be digged, del<g ref="char:EOLhyphen"/>ved, ſubverted, or mined, and not wrought lawfully according to the cuſtom of the Mine, then it may and ſhall be lawful for the Inheritors of the ground ſo digged, ſubverted,
+<pb n="15" facs="tcp:29368:13"/>and mined, the ſame to fill up, at their will and pleaſure.</p>
+            </div>
+            <div n="17" type="article">
+               <head>ART. XVII.</head>
+               <p>We ſay, that no perſon or perſons ought to keep any counterfeit <hi>Diſh</hi> or <hi>Meaſure</hi> in their Houſes, Coes, or any other place, to meaſure <hi>Ore</hi> withal, but every one ought to buy and ſell by the Bar-maſter's lawful <hi>Diſh,</hi> and no other to be uſed or had; and every <hi>Buyer</hi> offending herein, ſhall forfeit for every ſuch Offence forty ſhillings to the Lord of the Field, or <hi>Farmer;</hi> and the <hi>Sellers</hi> thereof ſhall forfeit their <hi>Ore,</hi> if it be taken at ſuch time.</p>
+            </div>
+            <div n="18" type="article">
+               <head>ART. XVIII.</head>
+               <p>We ſay, that if any poor <hi>Miner,</hi> or any other poor Perſon, have <hi>Ore</hi> (under a <hi>Load</hi>) to meaſure, and
+<pb n="16" facs="tcp:29368:14"/>the Bar-maſter or his Deputy have notice thereof, and do not (upon warning and requeſt) come to mea<g ref="char:EOLhyphen"/>ſure the ſame, then every ſuch per<g ref="char:EOLhyphen"/>ſon may lawfully take two of his Neighbours, and deliver his <hi>Ore</hi> to whom he will, ſo that the cuſto<g ref="char:EOLhyphen"/>mary Duties be paid.</p>
+            </div>
+            <div n="19" type="article">
+               <head>ART. XIX.</head>
+               <p>We ſay, that the Bar-maſter, or his Deputy, ſhall ſee that meaſure be indifferently made betwixt the Buyer and Seller; and the Buyer not to touch the <hi>Diſh,</hi> or to put in his hand to make meaſure, on pain to forfeit ten ſhillings.</p>
+            </div>
+            <div n="20" type="article">
+               <head>ART. XX.</head>
+               <p>We ſay, that after the <hi>Ore</hi> is ſo meaſured, the Merchant, Buyer, or Miner, that carries away the <hi>Ore,</hi>
+                  <pb n="17" facs="tcp:29368:14"/>doth pay to the Lord of the Field, or Farmer, <hi>Cope,</hi> being ſix pence for every Load of <hi>Ore,</hi> nine <hi>Diſhes</hi> to the Load; for the which <hi>Cope,</hi> the Miners or Merchants have liberty to carry away the <hi>Ore,</hi> and ſell and diſpoſe of it to whom they pleaſe, to their beſt advantage, without the diſturbance of any man.</p>
+            </div>
+            <div n="21" type="article">
+               <head>ART. XXI.</head>
+               <p>We ſay, that if any perſon, or perſons, will make any Claim or Title to any Grooves, or Meers of ground, Rake, Vein, or Ore, he ought to arreſt the ſame, according to the cuſtom of the Mine, and the Defendant ought to be bound in a Bond (with ſufficient Sureties for him to the Pliantiff) to anſwer at the next <hi>Barmoot-Court,</hi> to ſuch Actions as ſhall be brought againſt him, by the Plaintiff, upon the ſaid
+<pb n="18" facs="tcp:29368:15"/>Arreſtment; and after to yield ſo much <hi>Ore,</hi> or the value thereof to the Plaintiff, if the Defendant be caſt, by the Verdict of 12 men; as ſhall be gotten at ſuch Grooves or Meers of ground, from the time of ſuch Arreſt, till ſuch Trial at the <hi>Barmoot-Court.</hi>
+               </p>
+            </div>
+            <div n="22" type="article">
+               <head>ART. XXII.</head>
+               <p>We ſay, that after any Arreſt made, the Bar-maſter, or his Depu<g ref="char:EOLhyphen"/>ty, upon requeſt made, ought to appoint a <hi>Court-Barmoot</hi> within ten days, or as ſoon as he can conveni<g ref="char:EOLhyphen"/>ently; And if the Plaintiff do not purſue his ſuit upon the Arreſt, he ſhall then loſe ſix ſhillings eight pence to the Steward; and a Non<g ref="char:EOLhyphen"/>ſuit ſhall paſs againſt him: And we ſay, that a Non-ſuit is to be of the ſame effect and validity with a Ver<g ref="char:EOLhyphen"/>dict; and every way to ſigniſie as
+<pb n="19" facs="tcp:29368:15"/>much; and if the Defendant fail to make his defence, a Verdict ſhall paſs againſt him for his Default.</p>
+            </div>
+            <div n="23" type="article">
+               <head>ART. XXIII.</head>
+               <p>We ſay, whoſoever ſhall be con<g ref="char:EOLhyphen"/>demned and caſt by a Verdict of 12 men; or otherwiſe, if a Jury be ſummon'd, and upon calling appear, if the Plaintiff will not go on, and follow his Suit, he ſhall pay four ſhillings for 12 mens Dinners: And <hi>Pawns</hi> ſhall be put in on both parts, into the Bar-maſter, or his Deputies hands, at the time of the Arreſt, or within three days fol<g ref="char:EOLhyphen"/>lowing.</p>
+            </div>
+            <div n="24" type="article">
+               <head>ART. XXIV.</head>
+               <p>We ſay, that the Defendant ought to have ſix days time at leaſt, before any Court, to prepare him<g ref="char:EOLhyphen"/>ſelf
+<pb n="20" facs="tcp:29368:16"/>for his Defence; and what Ar<g ref="char:EOLhyphen"/>reſts are made within ſix days next before the Court, the Defendant may, if he pleaſe, refuſe to anſwer, and not ſuffer any loſs thereby; and ſuch arreſts made within ſix days, to be void, unleſs both par<g ref="char:EOLhyphen"/>ties be willing to go on to Try<g ref="char:EOLhyphen"/>al.</p>
+            </div>
+            <div n="25" type="article">
+               <head>ART. XXV.</head>
+               <p>We ſay, that the Bar-maſter, or Steward, ought yearly to keep two great <hi>Barmoot-Courts</hi> on the Mine, one about <hi>Eaſter,</hi> and the other a<g ref="char:EOLhyphen"/>bout <hi>Michaelmas,</hi> within fourteen days before or after the ſaid times; and every three weeks a Court, if need be yearly; If either Plaintiff or Defendant requeſt a Court, he is to keep one within ten days af<g ref="char:EOLhyphen"/>ter ſuch requeſt, or forfeit ten ſhillings.</p>
+            </div>
+            <div n="26" type="article">
+               <pb n="21" facs="tcp:29368:16"/>
+               <head>ART. XXVI.</head>
+               <p>We ſay, if any Groove, Shaft, or Meer of ground be arreſted, all the Ore got or meaſured at ſuch Groove, Shaft, or Meer of ground, from the arreſt to the tryal, is liable to the Arreſt; And if the Verdict be found for the Plaintiff, then the Defendant ſhall pay to him ſo much <hi>Ore,</hi> or the value thereof, as ſhall appear by Evidence was gotten, or meaſured at ſuch Groove, Shaft, or Meer of ground, from the time of the Arreſt, till the Tryal: And when the Bar-maſter, or his Depu<g ref="char:EOLhyphen"/>ty, makes ſuch Arreſt, he ought to take good ſecurity for the <hi>Ore</hi> that is to be meaſured there, or carried away to any other place.</p>
+            </div>
+            <div n="27" type="article">
+               <pb n="22" facs="tcp:29368:17"/>
+               <head>ART. XXVII.</head>
+               <p>We ſay, that honeſt and able men ought to be ſummon'd for Ju<g ref="char:EOLhyphen"/>rors, out of every Diviſion within the Wapentake; and to be ſum<g ref="char:EOLhyphen"/>mon'd as near the Court-day as may be; and of every Diviſion ſome to ſerve, unleſs ſome juſt cauſe be ſhewed to the contra<g ref="char:EOLhyphen"/>ry.</p>
+            </div>
+            <div n="28" type="article">
+               <head>ART. XXVIII.</head>
+               <p>We ſay, that able fit man, if they be not Miners, if they have parts, and be maintainers of Mines, and known by the Bar-maſter, or his Deputy, to underſtand well the cuſtom of the Mine; they ought to ſerve for Jurors, eſpecially in difficult and weighty matters and cauſes.</p>
+            </div>
+            <div n="29" type="article">
+               <pb n="23" facs="tcp:29368:17"/>
+               <head>ART. XXIX.</head>
+               <p>We ſay, that one Verdict for wages due to Work-men, ſhall fully conclude and determine. And for the Title that ariſeth by con<g ref="char:EOLhyphen"/>tract, as by Gift, Sale, or Exchange, (or the like) and alſo for right of Poſſeſſion, for Shafts or Meers of ground; two of the firſt Verdicts for one party, ſhall fully conclude the Title.</p>
+            </div>
+            <div n="30" type="article">
+               <head>ART. XXX.</head>
+               <p>We ſay, that when a Verdict is gone for either party, if he which hath loſt will have another Tryal for the Title, he ought to arreſt within fourteen days next after the Court, when the Verdict went a<g ref="char:EOLhyphen"/>gainſt him; or elſe that Verdict ſhall determine, and fully exclude him
+<pb n="24" facs="tcp:29368:18"/>from any further Claim; unleſs that longer time for workmanſhip be abſolutely neceſſary to diſco<g ref="char:EOLhyphen"/>ver the truth: If ſo, then the party grieved may within fourteen days cauſe four or more of the Grand-Jury, or Twenty Four, to view the work in queſtion; and what time they think fit for workmanſhip to diſcover the truth; that they may allow, giving ſuch their doings (un<g ref="char:EOLhyphen"/>der their hands) in writing to the Bar-maſter or his Deputy of that Diviſion: And if it proves the al<g ref="char:EOLhyphen"/>lowed time be too ſhort, then the grieved party may again procure four or more of the Grand-jury, or Twenty Four, to view the work a ſecond time; and if they then find that workmanſhip hath been duly made, and yet more time is requi<g ref="char:EOLhyphen"/>ſite, they may give longer time a<g ref="char:EOLhyphen"/>gain, in manner as aforeſaid: And then if the party grieved arreſt not
+<pb n="25" facs="tcp:29368:18"/>within ten days after that time is eepired, that Verdict that went a<g ref="char:EOLhyphen"/>gainſt him ſhall fully conclude and determine the Title.</p>
+            </div>
+            <div n="31" type="article">
+               <head>ART. XXXI.</head>
+               <p>We ſay that no perſon ought to ſue for Mineral Debt, Ore, Grooves, Treſpaſſes in Grooves, or grounds in variance, but only in the <hi>Bar<g ref="char:EOLhyphen"/>moot-Court;</hi> and if any do the con<g ref="char:EOLhyphen"/>trary, they ſhall loſe their Debt and Ore for which they are in contro<g ref="char:EOLhyphen"/>verſie, [and ſhall pay the Charges in Law, and loſe all their Grooves, or Meers of ground, and parts there<g ref="char:EOLhyphen"/>of to the party grieved, till upon juſt account, he have ſatisfaction for all his Charges and Expences in and about ſuch Suits] to the Lord of the Field, or Farmer; Alſo ſuch as ſue out of the <hi>Barmoot-Court,</hi> as aforeſaid, ought to have no
+<pb n="26" facs="tcp:29368:19"/>Benefit, nor Plea in <hi>Barmoot-Court.</hi>
+               </p>
+            </div>
+            <div n="32" type="article">
+               <head>ART. XXXII.</head>
+               <p>We ſay, no Officer ought, for Treſpaſs or Debt, to execute or ſerve any Writ, Warrant, or Pre<g ref="char:EOLhyphen"/>cept upon any Miner, being at his work on the Mine, nor when the Miners come or go to the <hi>Barmoot-Court,</hi> but the Bar-maſter or his De<g ref="char:EOLhyphen"/>puty only.</p>
+            </div>
+            <div n="33" type="article">
+               <head>ART. XXXIII.</head>
+               <p>We ſay, if two ſeveral parties, or more, be Groove-fellows, or Part-owners to one Groove, or Meer of ground, and one or more of the Part-owners will not keep company, nor pay his or their pro<g ref="char:EOLhyphen"/>portional part or parts of all ſuch Workmanſhip, and other Charges
+<pb n="27" facs="tcp:29368:19"/>and Expences as are neceſſary and conducing to ſuch Groove or Grooves, Meer or Meers of ground: Thereupon the party grieved ſhall complain to the Bar-maſter, or his Deputy, who ſhall take with him two or more of the Grand-jury, or Twenty Four, and ſpeak to the party or parties who neglect or re<g ref="char:EOLhyphen"/>fuſe to pay Charges, and keep Company as aforeſaid, and give him or them warning to come in within ten days to pay Charges and keep Company with their Part-owners; and if (after warning given) the party or parties refuſe to pay Char<g ref="char:EOLhyphen"/>ges, or to come in and keep Com<g ref="char:EOLhyphen"/>pany as aforeſaid, then the Bar<g ref="char:EOLhyphen"/>maſter, or his Deputy, and the Grand-jury, or Twenty Four, at their meeting next following (un<g ref="char:EOLhyphen"/>leſs ſome juſt cauſe be ſhewed to the contrary) may order the party or parties, that have refuſed and neg<g ref="char:EOLhyphen"/>lected
+<pb n="28" facs="tcp:29368:20"/>to pay Charges, and keep com<g ref="char:EOLhyphen"/>pany, that he or they ſhall come and pay Charges, and keep Com<g ref="char:EOLhyphen"/>pany with his or their Part-owners: And ſuch Order of the Grand-jury, or Twenty Four is to be binding, as though it was at <hi>Barmoot-Court.</hi>
+               </p>
+            </div>
+            <div n="34" type="article">
+               <head>ART. XXXIV.</head>
+               <p>We ſay, that when a Meer or Meers of ground are wrought under water, and by reaſon thereof hath ſtood many years unwrought, and the Owner or Owners of ſuch Meer or Meers of Ground do not uſe ſome effectual means to get forth the water, to recover the ſame; and that the ſame might be wrought by the means of a <hi>Sough,</hi> or <hi>Engine,</hi> and that for the publick good, but is yet neglected: Thereupon any perſon or perſons, who are minded to disburſe and lay forth money, to
+<pb n="29" facs="tcp:29368:20"/>recover ſuch Works from water, may, at a great <hi>Barmoot-Court</hi> held at <hi>Wirksworth,</hi> declare ſuch their Intentions, in writing, to the Grand-Jury, or Twenty Four, and they ſhall take the ſame into ſerious con<g ref="char:EOLhyphen"/>ſideration; and if they know ſuch works to have ſtood long, by reaſon of water, and no effectual means u<g ref="char:EOLhyphen"/>ſed to win the ſame; and that the perſon or perſons who deſire to un<g ref="char:EOLhyphen"/>dertake to win the ſame by <hi>Soughs,</hi> or otherwiſe, to be able men, and like to perfect ſuch a work: There<g ref="char:EOLhyphen"/>upon the Grand-jury, or Twenty Four ſhall appoint a day (a month after at leaſt) for themſelves, and the party that undertakes, and all the Owners of ſuch works, to meet at the place where ſuch works are, and this time of meeting ſhall be publiſht by the Cryer in the great <hi>Barmoot-Court,</hi> that all men may take notice thereof. At
+<pb n="30" facs="tcp:29368:21"/>ſuch meeting the undertakers ſhall give the Grand-jury, or Twenty four, to underſtand by what means they intend to lay dry all ſuch works, and to get out the water, for recovering the ſame; and if the Grand-jury, or Twenty Four, there<g ref="char:EOLhyphen"/>upon conceive the way and means they propoſe is like, and effectual to recover ſuch works from water, ſo that the publick may have ad<g ref="char:EOLhyphen"/>vantage thereby, the Grand-jury, or Twenty Four, ſhall acquaint the Owners of ſuch works with the In<g ref="char:EOLhyphen"/>tentions of the undertakers, concer<g ref="char:EOLhyphen"/>ning the recovery of ſuch works from water, and the way and means they propoſe for the doing of it. And any of the Owners of ſuch works (if they pleaſe) may joyn with the undertakers, paying their proportionable parts of the Charge of ſuch <hi>Soughs</hi> or <hi>Engines</hi> as ſhall be made to recover the ſame, accor<g ref="char:EOLhyphen"/>ding
+<pb n="31" facs="tcp:29368:21"/>to their parts, and injoy the benefit thereof. And ſuch of the Owners of ſuch works, as ſhall not (by themſelves, or others by their authority) appear at ſuch meeting; or then neglect or refuſe to joyn, and pay their proportionable part or parts of charges of ſuch <hi>Soughs</hi> or <hi>Engines</hi> as ſhall be made and uſed for the recovery of ſuch works from water, as aforeſaid: Thereupon the Grand-jury, or Twenty Four, and Bar-maſter, or his Deputy, ſhall have power to diſpoſeſs ſuch Owner or Owners from their part or parts, and to aſſign and deliver poſſeſſion of ſuch part or parts to the undertakers thereof, as afore<g ref="char:EOLhyphen"/>ſaid; withal, ordering, That the undertakers of ſuch works ſhall give to the Owners, that refuſe and neglect, as aforeſaid, ſuch reaſona<g ref="char:EOLhyphen"/>ble ſatisfaction as the Grand-jury, or Twenty Four, ſhall then think fit.
+<pb n="32" facs="tcp:29368:22"/>And if it happen, in the carrying on of the buſineſs for the recovery of ſuch Water-works, that any dif<g ref="char:EOLhyphen"/>ference ariſe betwixt the Underta<g ref="char:EOLhyphen"/>kers and the Owners of ſuch works, or any of them, ſo that the work is obſtructed thereby; then the Grand-jury, or Twenty Four, be<g ref="char:EOLhyphen"/>ing called together, ſhall have po<g ref="char:EOLhyphen"/>wer to regulate all ſuch difference, whereby the work may be effectu<g ref="char:EOLhyphen"/>ally accompliſht for publick good.</p>
+            </div>
+            <div n="35" type="article">
+               <head>ART. XXXV.</head>
+               <p>We ſay, that when any man is poſſeſſed of a Groove or Meer of ground, and hath found the Vein, and works therein, he ought to ſuffer his Neighbour, who is the next <hi>Taker,</hi> and ſhew him the beſt light and direction he can, which way, and upon what point the Vein goeth: But in caſe any man
+<pb n="33" facs="tcp:29368:22"/>be ſo refractory as to deny his Neighbour ſuch a courteſie, then he may procure three or more of the Grand-jury, or Twenty Four, to be ſummon'd, and the Bar-maſter, or his Deputy, may put them into his Groove who hath the Vein in Work, where they may (by uſing of a Dial, or ſome other Skill) ſhew him that is the next <hi>Taker,</hi> which way, and upon what point the Vein goes, ſo that he may know thereby where to fink his Shaft to find the Vein; that the Field may be ſet forwards for the publick good; provided always, that ſuch of the Grand-jury, or Twenty Four, as go into the Groove aforeſaid, ſhall not do any other act or thing, or make any other diſcovery of ſuch Groove, ſave only to ſee which way, and upon what point the Vein goes.</p>
+            </div>
+            <div n="36" type="article">
+               <pb n="34" facs="tcp:29368:23"/>
+               <head>ART. XXXVI.</head>
+               <p>We ſay, that where any man is lawfully poſſeſſed of a Meer of ground, for any Rake or Vein, and works the ſame truly according to the cuſtom of the Mine; if any o<g ref="char:EOLhyphen"/>ther man ſhall ſet <hi>Poſſeſſions,</hi> at, or near his <hi>Fore-field;</hi> pretending for a Croſs-vein, or ſome other thing; and by workmanſhip ſhall be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ongly ſuſpected to work in the ſame Vein for which there is another in poſſeſſion, and truly works the ſame; thereupon the party grieved may procure the Grand-jury, or Twenty Four, to be ſummon'd to appear at the place in queſtion; They, or ſo many of them as appear, (being above twelve) ſhall view the whole work; and if thereup<g ref="char:EOLhyphen"/>on they find, by their beſt skill, the <hi>Thing</hi> in all probability, to be one
+<pb n="35" facs="tcp:29368:23"/>and the ſame; and yet for want of workmanſhip cannot then plainly appear, then ſuch of the Grand-ju<g ref="char:EOLhyphen"/>ry, or Twenty Four, as appear and view, as aforeſaid, ſhall give ſuch their Opinions under their hands in writing; withal, ordering who they conceit works wrongfully, forth<g ref="char:EOLhyphen"/>with to give the party grieved good ſecurity for all the Ore got at the work in queſtion, till time and work<g ref="char:EOLhyphen"/>manſhip make the Truth appear; But if the party who is to give ſecu<g ref="char:EOLhyphen"/>rity, refuſe to give ſuch ſecurity, then ſuch of the Grand-jury, or Twenty Four, as appear and view, as afore<g ref="char:EOLhyphen"/>ſaid, ſhall (by their Order under their hands) appoint the Bar-ma<g ref="char:EOLhyphen"/>ſter, or his Deputy, to ſeize and ſequeſter all the Ore got at the work in queſtion, till workmanſhip do make the Truth appear, to whom the Vein belongs; and when either party does conceit that workman<g ref="char:EOLhyphen"/>ſhip
+<pb n="36" facs="tcp:29368:24"/>enough is made in it to make the Truth appear, then either of them may procure the Grand-jury, or Twenty Four, to be ſummon'd again; and ſuch of them as appear, being above twelve, ſhall view the work in queſtion; if then, by workmanſhip, it may appear to whom the Ore and Vein belongs, they may order it the ſame party to whom they conceive it due; and if either party think he hath wrong thereby, he may arreſt, and have his Trial for his Right or Ti<g ref="char:EOLhyphen"/>tle.</p>
+            </div>
+            <div n="37" type="article">
+               <head>ART. XXXVII.</head>
+               <p>We ſay, that no perſon ſhall come to any workman that works his ground truly, upon any colour or pretence to claim his ground, to hinder his Work, or to ſtop the <hi>Field;</hi> but the firſt Workman ſhall
+<pb n="37" facs="tcp:29368:24"/>only work, and the Claimer arreſt, and take the Law, and the Bar-ma<g ref="char:EOLhyphen"/>ſter ſhall do him Law truly.</p>
+            </div>
+            <div n="38" type="article">
+               <head>ART. XXXVIII.</head>
+               <p>We ſay, if any Vein or Rake go croſs through another Rake or Vein, he that comes to the <hi>Pee</hi> firſt ſhall have it, and may work therein, ſo far as he can reach with a <hi>Pick,</hi> or <hi>Hack,</hi> having a helve three quarters of a yard long, ſo that he ſtand wholly within his own cheeks, when he works ſuch a <hi>Pee.</hi>
+               </p>
+            </div>
+            <div n="39" type="article">
+               <head>ART. XXXIX.</head>
+               <p>We ſay, that when two Veins go together, parted with a Rither, that it is ſcarce diſcernable whether it be two Veins, or but one; in this caſe, ſo long as the Rither may
+<pb n="38" facs="tcp:29368:25"/>be taken down by firing on the one ſide, it is to be taken and reputed but for one Vein; but in caſe the Rither be ſo thick that it cannot be taken by firing on the one ſide, and the Veins go ſo aſunder, for half a Meer in length, then they are ſer<g ref="char:EOLhyphen"/>viceable to the Miner, as two di<g ref="char:EOLhyphen"/>ſtinct Veins.</p>
+            </div>
+            <div n="40" type="article">
+               <head>ART. XL.</head>
+               <p>We ſay, that any Miner, in an open Rake, may kindle and light his Fire, after four of the clock in the afternoon; giving his Neigh<g ref="char:EOLhyphen"/>bour lawful warning thereof.</p>
+            </div>
+            <div n="41" type="article">
+               <head>ART. XLI.</head>
+               <p>We ſay, if any Mines, or other perſon, do under-beat his Neigh<g ref="char:EOLhyphen"/>bours Meer, and work out of his own Length into anothes man's
+<pb n="39" facs="tcp:29368:25"/>Ground, the party ſo grieved may procure two or more of the Grand-Jury, or Twenty Four, to view ſuch a Treſpaſs, and order the par<g ref="char:EOLhyphen"/>ty that hath done the wrong, to give the party grieved full as much Ore as the value thereof, as they conceive is gotten wrongfully, without allowing any charge for getting the ſame; and the party offending herein ſhall forfeit for e<g ref="char:EOLhyphen"/>very ſuch Offence five ſhillings four pence; which fine the Bar-maſter, or his Steward ſhall have.</p>
+            </div>
+            <div n="42" type="article">
+               <head>ART. XLII.</head>
+               <p>We ſay, that if any Miner, or other perſon, doth work, and keep lawful poſſeſſion of any Groove, Shaft, or Meer of ground, accor<g ref="char:EOLhyphen"/>ding to the cuſtom of the Mine; If any perſon or perſons (by day or night) caſt in, or fill up ſuch
+<pb n="40" facs="tcp:29368:26"/>Shaft, Groove, or Meer of ground, however they ſhall be wrought; every ſuch perſon offending here<g ref="char:EOLhyphen"/>in ſhall forfeit for every ſuch offence ten pounds, the one half to the Lord of the Field, or Farmer, and the other half to the Bar-maſter, or Steward; and ſhall pay the party ſo much as will make good the work again.</p>
+            </div>
+            <div n="43" type="article">
+               <head>ART. XLIII.</head>
+               <p>We ſay, that if any perſon or perſons ſhall at any time go to any Gentleman, or other perſon, and give, ſell, or exchange any part or parts of a Groove, or Meer of ground in variance, for maintain<g ref="char:EOLhyphen"/>ance; every perſon ſo offending ſhall thereby loſe his Groove, or Meer of ground, or part thereof in variance; and the Taker or Buyer ſhall forfeit ten pounds to the Lord of the Field, or Farmer.</p>
+            </div>
+            <div n="44" type="article">
+               <pb n="41" facs="tcp:29368:26"/>
+               <head>ART. XLIV.</head>
+               <p>We ſay, that if it happen that any Miner, be killed, or ſlain, or damped upon the Mine, within any Groove, neither Eſcheater, Coroner, or any other Officer ought to meddle there<g ref="char:EOLhyphen"/>with, but the Bar-maſter, or his Deputy.</p>
+            </div>
+            <div n="45" type="article">
+               <head>ART. XLV.</head>
+               <p>We ſay, that no perſon ought to bring any unlawful Weapon to the Mine; and for every time ſo do<g ref="char:EOLhyphen"/>ing, to forfeit 3 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> to the Stew<g ref="char:EOLhyphen"/>ard, or Bar-maſter: And if any make an Aſſault or Fray on the Mine; every ſuch perſon ought to forfeit for every ſuch offence 40 <abbr>
+                     <hi>s.</hi>
+                  </abbr> and for every Bloud-ſhed againſt the Peace, 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> the one half to the Lord of the Field, or Farmer, and the other
+<pb n="42" facs="tcp:29368:27"/>half to the Bar-maſter, or Steward.</p>
+            </div>
+            <div n="46" type="article">
+               <head>ART. XLVI.</head>
+               <p>We ſay, that every man that hath a Waſh-trough, ought to have ſeven foorts about the ſame; and if any perſon dig, delve, or ſhovle in the ſaid Trough within the ſaid ſpace, he ſhall forfeit for every ſuch Of<g ref="char:EOLhyphen"/>fence 12 <abbr>
+                     <hi>d.</hi>
+                  </abbr> to the Steward: Alſo we ſay, that no perſon ought to dig, delve, or ſhovle near any man's Bing-place, upon pain to forfeit 12 <abbr>
+                     <hi>d.</hi>
+                  </abbr> for every ſuch Offence.</p>
+            </div>
+            <div n="47" type="article">
+               <head>ART. XLVII.</head>
+               <p>We ſay, that no perſon or perſons ought to cave upon any mans ground except the Owner be preſent on the ground, on pain to forfeit the Ore they get to the Owners of ſuch ground, if they be taken: And al<g ref="char:EOLhyphen"/>ſo
+<pb n="43" facs="tcp:29368:27"/>ſix pence to the Lord of the Field, or Farmer, ſo oft as they ſhall be taken therewith. Alſo, no Purcha<g ref="char:EOLhyphen"/>ſer ought to ſtop him, or any Mi<g ref="char:EOLhyphen"/>ner, from any Waſh-trough, at any time, on pain to forfeit for every ſuch Offence, 12 <abbr>
+                     <hi>d.</hi>
+                  </abbr> to the Lord of the Field, or Farmer. Alſo no Ca<g ref="char:EOLhyphen"/>ver ought to purchaſe in any man's ground, before eight of the clock in the morning, nor after four in the afternoon, on pain to forfeit for e<g ref="char:EOLhyphen"/>very ſuch Offence, 12 <abbr>
+                     <hi>d.</hi>
+                  </abbr> to the Lord of the Field, or Farmer.</p>
+            </div>
+            <div n="48" type="article">
+               <head>ART. XLVIII.</head>
+               <p>We ſay, that if any perſon or perſons felloniouſly take away any Ore or other Materials from any Groove, Shaft, or Meer of ground, Houſes, Coes, or ſmilting Houſes, or elſewhere, if it be under the value of 13 <abbr>
+                     <hi>d.</hi>
+                  </abbr> half peny; the
+<pb n="44" facs="tcp:29368:28"/>Bar-maſter, or his Deputy, ſhall puniſh the Offender in the Stocks, or otherwiſe, as is fit for ſuch Of<g ref="char:EOLhyphen"/>fenders to be puniſhed: But if the Ore or other Materials be above 13 <abbr>
+                     <hi>d.</hi>
+                  </abbr> half peny, we ſay 'tis Felony.</p>
+            </div>
+            <div n="49" type="article">
+               <head>ART. XLIX.</head>
+               <p>We ſay, that every Bar-maſter, or his Deputy, ought to have a pair of Stocks, at ſome convenient place within his Diviſion; the ſame to be built at the charges of the Lord of the Field, or Farmer; by the be<g ref="char:EOLhyphen"/>nefit ariſing out of the Fines; and ſuch perſons as ſwear, curſe, or commit any other Miſdemeanours on the Mine, fit to be puniſhed in the Stocks; the Bar-maſter, or his Deputy, ſhall puniſh ſuch Offen<g ref="char:EOLhyphen"/>ders, any time under the ſpace of twelve hours, as the Offence ſhall require.</p>
+            </div>
+            <div n="50" type="article">
+               <pb n="45" facs="tcp:29368:28"/>
+               <head>ART. L.</head>
+               <p>We ſay, that no Miner ought to be fined or amerced by the Steward of the <hi>Barmoot-Court</hi> for his not ap<g ref="char:EOLhyphen"/>pearing there, unleſs he have law<g ref="char:EOLhyphen"/>ful warning; But if lawful war<g ref="char:EOLhyphen"/>ning and ſummons be given, and the Miner fail to come and appear, according to cuſtom; the firſt time is 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr> and ſo at every Court (if occaſion enſue) is double the ſame, till it come to 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> whereof 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> is due to the Lord of the Field, or Farmer, and 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> to the Steward: And in caſe twenty four Miners be ſummon'd on a Jury, for a Trial betwixt party and party, to appear at the <hi>Barmoot-Court;</hi> if there appear not 12 of them, whereby to have a full Jury, then all ſuch as fail in ap<g ref="char:EOLhyphen"/>pearing herein, ſhall be fined, as the Bar-maſter, or Steward, pleaſes, in
+<pb n="46" facs="tcp:29368:29"/>any ſum not exceeding 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> provi<g ref="char:EOLhyphen"/>ded always, the have lawful ſum<g ref="char:EOLhyphen"/>mons, and be able of Body to come.</p>
+            </div>
+            <div n="51" type="article">
+               <head>ART. LI.</head>
+               <p>We ſay, that if any Groove, Shaft, or Meer of ground be in controver<g ref="char:EOLhyphen"/>ſie, and the Grand-jury, or Twenty Four, be called to view that Shaft or Meer of ground, or to do or perform any other duty concerning the ſame, and thereupon make an Order, and give their opinions un<g ref="char:EOLhyphen"/>der their hands in writing, concer<g ref="char:EOLhyphen"/>ning ſuch Groove, Shaft, or Meers of ground in controverſie: then ſuch Order, or Opinion, as the Grand-jury, or Twenty Four, or part of them make, being above four, may and ought to be produ<g ref="char:EOLhyphen"/>ced in the <hi>Barmoot Court</hi> at the Trial, and there openly read, and ſhewed to the Jury, that they may
+<pb n="47" facs="tcp:29368:29"/>take notice thereof as they think fit.</p>
+            </div>
+            <div n="52" type="article">
+               <head>ART. LII.</head>
+               <p>We ſay, that if the Grand-jury, or Twenty Four, for the Mine, or part of them, be (by the Bar-maſter, or his Deputy) called to view any Work within ground; or to do, or perform any other Office, or Duty, concerning theſe, or any other Ar<g ref="char:EOLhyphen"/>ticles, for the cuſtom of the Mine; if any perſon or perſons reſiſt, or hinder them therein, every one ſo offending ſhall forfeit for very ſuch Offence 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> the one half to the Lord of the Field, or Farmer, and the other half to the Bar-maſter, or Steward; And if any reſiſt the Bar-maſter, or his Deputy, he may, if need be, call any Miners to aſſiſt him, and the Grand-jury, or Twen<g ref="char:EOLhyphen"/>ty Four, or part of them; And if
+<pb n="48" facs="tcp:29368:30"/>any Miner neglect or refuſe herein, he ſhall forfeit for every ſuch 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> to the Lord of the Field, or Farmer.</p>
+            </div>
+            <div n="53" type="article">
+               <head>ART. LIII.</head>
+               <p>We ſay, that the Bar-maſter, or his Deputy, or the Steward, ought to levy and collect all Fines and Forfeitures, due by cuſtom of the Mine; and where any perſon hath not Ore to diſcharge the ſame, nor is not otherways able, or willing to pay ſuch Fines and Forfeitures; then the Bar-maſter, or his Deputy, ſhall (for every ſuch Offence) pu<g ref="char:EOLhyphen"/>niſh every ſuch perſon in the Stocks, to ſit there twelve hours pining, with a paper on his Back, ſhewing for what Offence he ſits there; But in caſe the Bar-maſter, or his Depu<g ref="char:EOLhyphen"/>ty, or the Steward, do not hence<g ref="char:EOLhyphen"/>forth levy and collect all Fines and Forfeitures, due by the cuſtom of
+<pb n="49" facs="tcp:29368:30"/>the Mine, nor puniſh ſuch Offenders in the Stocks, as are fit to be puni<g ref="char:EOLhyphen"/>ſhed; they ſhall forfeit for every ſuch neglect 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> to the Lord of the Field, or Farmer.</p>
+            </div>
+            <div n="54" type="article">
+               <head>ART. LIV.</head>
+               <p>We ſay, if any Miner or Miners, or any other perſon or perſons, be poſſeſſed of a Meer or Meers of ground, or part or parts thereof, and work it truly, according to the cuſtom of the Mine; if there be any perſon or perſons that ſhall or will make Claim or Title to the ſame, or any part thereof; that he or they ſhall come and make their Claims (either by themſelves, or by ſome Agent employed by them) before the Bar-maſter, or his Deputy; and within ſix months after the ſame ſhall be in workmanſhip; and if denyed of what he or they ſhall
+<pb n="50" facs="tcp:29368:31"/>claim, he or they muſt arreſt with<g ref="char:EOLhyphen"/>in fourteen days after the ſaid claim and denial, or elſe his or their Ti<g ref="char:EOLhyphen"/>tle ſhall be deemed unlawful, and to have no plea for it in the <hi>Bar<g ref="char:EOLhyphen"/>moot-Court.</hi>
+               </p>
+            </div>
+            <div n="55" type="article">
+               <head>ART. LV.</head>
+               <p>We ſay, whereas we find by daily experience, that great abuſes, and many inconveniencies do ariſe, by perſons taking part on both ſides, and only putting in their <hi>Pawns,</hi> and will neither maintain with Plain<g ref="char:EOLhyphen"/>tiff nor Defendant of their neceſſa<g ref="char:EOLhyphen"/>ry Charges; and they ſo refuſing to pay, poor men are many times utterly undone and overthrown. Whereupon we order and agree, (that where a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y controverſie ſhall happen about any Groove or Grooves, Meer or Meers of ground in queſtion) where ſuch ſuit ariſeth,
+<pb n="51" facs="tcp:29368:31"/>if any perſon or perſons claim any particular part or parts of a Meer of ground in queſtion, where ſuch ſuits ariſeth; if any perſon or perſons make claim on both ſides, and would only defend his or their part or parts, by putting in his or their part or parts of <hi>Pawns</hi> on both ſides. We ſay, that it ſhall not be ſuffici<g ref="char:EOLhyphen"/>ent for any perſon or perſons to defend his or their part or parts by ſuch means only; but he or they muſt either take to the Plaintiff or Defendant, to defend his or their part or parts, according to the cu<g ref="char:EOLhyphen"/>ſtom of the Mine; that is to ſay, he ſhall pay his or their part or parts of Charges, as ſhall be needful to make the Truth appear, in trying of the Cauſe or Cauſes, as well as putting in their part or parts of the 4 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> for the <hi>Pawn</hi> or <hi>Pawns;</hi> and Charges being lawfully demanded of ſuch, before the Bar-maſter of the Liber<g ref="char:EOLhyphen"/>ty,
+<pb n="52" facs="tcp:29368:32"/>and one or more of the Grand-jury, or Twenty Four; if the party or parties of whom expences in ſuch Suits and Tryals is demanded, as a<g ref="char:EOLhyphen"/>foreſaid, do not pay the ſame charge within four days after it is lawfully demanded; then ſuch party or par<g ref="char:EOLhyphen"/>ties, refuſing or neglecting to pay the ſame after ſuch demands, ſhall forfeit his or their part or parts to the parties grieved, to be equally divided amongſt them, according to their proportionable parts.</p>
+            </div>
+            <div n="56" type="article">
+               <head>ART. LVI.</head>
+               <p>We do order and ſay, that if any perſon that works for wages at any Groove or Grooves, Shaft or Shafts, Meer or Meers of ground, within the ſaid <hi>Soak</hi> and <hi>Wapentake,</hi> and ſhall have his or their wages wrong<g ref="char:EOLhyphen"/>fully detained or with-held from him or them, by the Owner or Ow<g ref="char:EOLhyphen"/>ners
+<pb n="53" facs="tcp:29368:32"/>Servant, or Agents, at any of the ſaid Grooves, Shaft or Shafts, Meer or Meers of ground; that then, if ſuch perſon or perſons, from whom ſuch wages ſhall be due, or from his or their Servants or Agents imploy'd to mannage their Mines, do not well and truly pay ſuch wages as ſhall be due to any Workman or Servant, within ten days after an account given, and demand made of ſuch perſon or perſons Servant or Agents; that then in ſuch caſe, the Work<g ref="char:EOLhyphen"/>man or Servant who ſhall be behind in arrear, and unpaid, as aforeſaid, may arreſt, where ſuch work was done, or elſewhere, within the ſaid <hi>Soak</hi> and <hi>Wapentake,</hi> his or their part or parts of <hi>Ore,</hi> or other Ma<g ref="char:EOLhyphen"/>terials, where ſuch perſon or per<g ref="char:EOLhyphen"/>ſons Servant or Agent (doth not pay as aforeſaid) are concerned, or have any part or parts thereof, and ſo bring it to Tryal at the next <hi>Bar<g ref="char:EOLhyphen"/>moot-Court</hi>
+                  <pb n="54" facs="tcp:29368:33"/>And if ſuch perſon or perſons, Servants or Agents, Defen<g ref="char:EOLhyphen"/>dant or Defendants ſhall be caſt, and condemned by the Verdict of 12 men; then ſuch Defendant or Defendants ſhall pay all ſuch wages forthwith, which ſhall be given in damage, and 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> over and beſides, for and towards the Coſts of ſuch Workmen or Servants, Plaintiff or Plaintifs, in the recovery of ſuch juſt wages, if their Ore be ſufficient under arreſt to defray the ſaid charge; but if not, and ſuch Defendant or De<g ref="char:EOLhyphen"/>fendants refuſe and neglect ſtill to pay ſuch wages and charges, as a<g ref="char:EOLhyphen"/>foreſaid; then the Bar-maſter of the Liberty where the ſaid Defendants have any Grooves, ſhall have po<g ref="char:EOLhyphen"/>wer to levy the ſame by Diſtreſs and Sale of the Defendant or Defen<g ref="char:EOLhyphen"/>dants Ore, or Mineral Materials, if any; or otherwiſe, he ſhall deliver all his or their Grooves, or parts
+<pb n="55" facs="tcp:29368:33"/>thereof, to the Plaintiff, to work un<g ref="char:EOLhyphen"/>til the Coſt and Damages be fully paid, with all Charges in working the ſame: And the Bar-maſter ſhall not neglect this preſent <hi>Article,</hi> on pain to forfeit (to the King, or his <hi>Farmer</hi>) 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> and to the party grieved, 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> And if the Defendant or Defendants ſhall contemn or diſobey this <hi>Article,</hi> or hinder the <hi>Bar-master</hi> in the diſcharge of his Duty, that then every ſuch Offen<g ref="char:EOLhyphen"/>der ſhall forfeit for every ſuch Of<g ref="char:EOLhyphen"/>fence 20 <abbr>
+                     <hi>s.</hi>
+                  </abbr> to the Kings Majeſty, or to his <hi>Farmer.</hi>
+               </p>
+            </div>
+            <div n="57" type="article">
+               <head>ART. LVII.</head>
+               <p>Alſo we order and ſay, that from henceforth, when any perſon or perſons ſhall complain at any great <hi>Barmoot-Court,</hi> for want of Compa<g ref="char:EOLhyphen"/>ny and Charges, that ſuch Com<g ref="char:EOLhyphen"/>plainants ſhall have a juſt Bill of
+<pb n="56" facs="tcp:29368:34"/>Charges (if ſuch can be had,) an<g ref="char:EOLhyphen"/>nexed to the Bill of Complaint, which the Twenty Four ſhall have power to determine: Or, at leaſt, he or they ſhall declare upon his or their Oaths, to the Grand-jury, or Twenty Four, the groſs ſum or ſums of Money, at ſuch Groove or Grooves where ſuch Part-owners are complained againſt, for want of Company, and Charges, as the ſaid Part-owners ſhall be behind and in arrear; which ſum or ſums ſhall be ſet down in the Order or Verdict of the Grand jury, or Twenty Four; And if ſuch Sum or Sums be not paid into the reſpective Bar-maſter's hands (for the uſe of the ſaid Com<g ref="char:EOLhyphen"/>plainants.) within ten days after warning given them; then the Bar-maſter may and ſhall deliver Poſ<g ref="char:EOLhyphen"/>ſeſſion, according to the ſaid Order: But if the perſon or perſons com<g ref="char:EOLhyphen"/>plained againſt, or their Agents, be
+<pb n="57" facs="tcp:29368:34"/>not reſident within the <hi>Soak</hi> and <hi>Wapentake</hi> of <hi>Wirksworth;</hi> or if up<g ref="char:EOLhyphen"/>on diligent enquiry made by the Bar-maſter, within twenty days af<g ref="char:EOLhyphen"/>ter the ſaid Order to him delivered, that ſuch perſon or perſons cannot be found to be reſident, nor his Agents, as aforeſaid; that then (in ſuch caſe, the Bar-maſter may take with him one or more of the Grand-Jury, or Twenty Four, and go to the Groove or Grooves, Meer or Meers of ground, where ſuch Company and Charges are wanting; and there in the Mineral time of the day, openly declare, That ſuch perſon or perſons ſhall come in, and keep company, and pay ſuch char<g ref="char:EOLhyphen"/>ges, as is contained in the ſaid Or<g ref="char:EOLhyphen"/>der, within ten days after, or loſe his or their part or parts. And if ſuch charges be not paid according to the ſaid Order, then the Bar-maſter, or his Deputy, may, and
+<pb n="58" facs="tcp:29368:35"/>ſhall deliver poſſeſſion, according to the ſaid Order, to the ſaid Com<g ref="char:EOLhyphen"/>plainants: And the Bar-maſter ſhall not neglect his duty herein, on pain to forfeit 10 <abbr>
+                     <hi>s.</hi>
+                  </abbr> to the King or his <hi>Farmer.</hi>
+               </p>
+            </div>
+            <div n="58" type="article">
+               <head>ART. LVIII.</head>
+               <p>We ſay, that no perſon or perſons ſhall lett, hinder, or deny the Bar-maſter and Twenty Four, or any of them, by firing, or any other ways or means whatſoever, from going into any of their Grooves, Shaft or Shafts, Meer or Meers of ground, to view and ſee whether any wrong or treſpaſs be committed between party or party: Nor for plumming and dialing in any of their Grooves, Shafts, or Meers of ground, for the end, and ſetting ſtreight of matters in controverſie, on pain of every one ſo offending
+<pb n="59" facs="tcp:29368:35"/>to forfeit for every ſuch offence, 40 <abbr>
+                     <hi>s.</hi>
+                  </abbr> of good and lawful <hi>Engliſh</hi> money, whereof, 20 to the Kings Majeſty, or his <hi>Farmer,</hi> and the other 20 to the party wronged or grieved; pro<g ref="char:EOLhyphen"/>vided always, that the Bar-maſter and Twenty Four, or any two or more of them, come at lawful and convenient times of the day.</p>
+            </div>
+            <div n="59" type="article">
+               <head>ART. LIX.</head>
+               <p>The Grand-jury or Twenty Four for the Body of the Mine, do order and ſay, that from hence<g ref="char:EOLhyphen"/>forth, every Miner and Maintainer of Mines, within the <hi>Soak</hi> and <hi>Wa<g ref="char:EOLhyphen"/>pentake</hi> of <hi>Wirksworth,</hi> ſhall prefer their Bills of Complaint at every Great <hi>Barmoot-Court,</hi> againſt their part-owner or part-owners, Groove fellow or Groove-fellows, in open Court, during the time of the Stew<g ref="char:EOLhyphen"/>ards ſitting, and not after any ad<g ref="char:EOLhyphen"/>journment;
+<pb n="60" facs="tcp:29368:36"/>to the end that every perſon concerned, or againſt whom any Bill is preferred, may have legal Proceedings, in open Court, according to the Cuſtom of the Mine.</p>
+            </div>
+            <trailer>The End of the Firſt Book.</trailer>
+         </div>
+         <div n="2" type="book">
+            <pb n="61" facs="tcp:29368:36"/>
+            <head>THE Second BOOK.</head>
+            <div type="bill">
+               <head>The Form of a Bill of Complaint, put up at the Great <hi>Barmoot-Court.</hi>
+               </head>
+               <head type="sub">At the Great <hi>Barmoot-Court</hi> held at <hi>Wirksworth,</hi> April 12. 1681.</head>
+               <p>JOhn Woodhave, <hi>and his Groove-Fellows, complain themſelves to this Court, againſt</hi> William Holdfaſt <hi>and</hi> Robert Non-pay, <hi>or any one that claims under them, or either of them, for not coming in and keeping company with them at the Old man's Groove, on the Cole-Hills, in the pens Rake, being within the Liberty of</hi> Wirkſworth, <hi>and Juriſdiction of this Court; and for not paying the ſum of</hi> 4 <abbr>l.</abbr>
+                  <hi>which is due for them to pay; be<g ref="char:EOLhyphen"/>ing</hi>
+                  <pb n="65" facs="tcp:29368:37"/>40 <abbr>s.</abbr> 
+                  <hi>apiece for either of their eight parts to pay; And therefore prays relief.</hi>
+               </p>
+            </div>
+            <div type="bill">
+               <head>The Form of a Croſs-bill, at the ſame Court.</head>
+               <head type="sub">At the Great <hi>Barmoot-Court</hi> held at <hi>Wirksworth,</hi> for the Soak and Wa<g ref="char:EOLhyphen"/>pentake of <hi>Wirksworth,</hi> Ap. 12. 1681.</head>
+               <p>
+                  <hi>Whereas</hi> John Woodhave, <hi>and his Groove-Fellows, have complained themſelves to this Court, againſt</hi> Wil<g ref="char:EOLhyphen"/>liam Holdfaſt, <hi>and</hi> Robert Non-pay, <hi>or any that claims under them, or ei<g ref="char:EOLhyphen"/>ther of them, for not coming in and keeping company with them at the Old mans Groove on the Cole-Hills, being within the Liberty of</hi> Wirkſ<g ref="char:EOLhyphen"/>worth, <hi>and Juriſdiction of this Court, and for not paying the ſum of</hi> 4 <abbr>l.</abbr>
+                  <hi>which they ſay is due for them to pay, being</hi> 40 <abbr>s.</abbr>
+                  <hi>apiece for either of our eight parts; We the aforeſaid</hi> William Holdfaſt, <hi>and</hi> Robert Non<g ref="char:EOLhyphen"/>pay,
+<pb n="64" facs="tcp:29368:37"/>
+                  <hi>do hereby declare to prove the payment of the aforeſaid</hi> 4 <abbr>l.</abbr>
+                  <hi>being</hi> 40 <abbr>s.</abbr>
+                  <hi>for either of our eight parts; And therefore pray to be diſmiſt.</hi>
+               </p>
+               <div type="verdict">
+                  <head>At the Great <hi>Barmoot-Court</hi> held at <hi>Wirksworth,</hi> Apr. 12. 1681.</head>
+                  <opener>
+                     <signed>The Names of the Jurors, and their Verdict upon the afore<g ref="char:EOLhyphen"/>ſaid Bill.
+<list>
+                           <item>
+                              <hi>John Hill.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony Wood.</hi>
+                           </item>
+                           <item>
+                              <hi>William Ward.</hi>
+                           </item>
+                           <item>
+                              <hi>William Stone.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Stafford.</hi>
+                           </item>
+                           <item>
+                              <hi>Adam Bell.</hi>
+                           </item>
+                           <item>
+                              <hi>Clement Clough.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Twigg.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Stand.</hi>
+                           </item>
+                           <item>
+                              <hi>William Winkat.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Neerheed.</hi>
+                           </item>
+                           <item>
+                              <hi>Joſe. Knowsnot.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Letſlip.</hi>
+                           </item>
+                           <item>
+                              <hi>William Caſtby.</hi>
+                           </item>
+                           <item>
+                              <hi>Adam Smoker.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Sheppard.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony Long.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Short.</hi>
+                           </item>
+                           <item>
+                              <hi>Gervis Standby.</hi>
+                           </item>
+                           <item>
+                              <hi>John Hanger.</hi>
+                           </item>
+                           <item>
+                              <hi>Abraham Woodwit.</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Wagstaffe.</hi>
+                           </item>
+                           <item>
+                              <hi>Elias Pool.</hi>
+                           </item>
+                           <item>
+                              <hi>Martin Spenſer.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </opener>
+                  <p>
+                     <pb n="40" facs="tcp:29368:38"/>
+                     <hi>We the ſaid Jurors, being elected, ſworn and charged, do (upon our Oaths) order and ſay, That</hi> William Holdfaſt, <hi>and</hi> Robert Non-pay, <hi>or any one that claims under them, or either of them, ſhall come in and keep company with</hi> John Woodhave, <hi>and his Groove-Fellows; and ſhall pay the ſum of</hi> 4 <abbr>l.</abbr>
+                     <hi>being</hi> 40 <abbr>s.</abbr>
+                     <hi>apiece for either of their eight parts to pay, which they are behind and in arrear, at the Old mans Groove, on the Cole-Hills, be<g ref="char:EOLhyphen"/>ing within the Liberty of</hi> Wirkſworth <hi>and Juriſdiction of this Court, within ten days after lawful warning given, or publication made, according to the Article, or loſe their parts.</hi>
+                  </p>
+                  <p>Then you muſt return the Croſs-Bill <hi>Ignoramus.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="bill">
+               <head>The Form of a Bill at the ſmall <hi>Court Barmoot,</hi> for tryal of Titles.</head>
+               <opener>
+                  <dateline>At the ſmall <hi>Court Barmoot</hi> held at — <date>the 13th. day of <hi>Apr.</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>Edward Wood, <hi>and his Groove-Fellows,
+<pb n="65" facs="tcp:29368:38"/>complain themſelves to this Court, againſt</hi> James Wilde, <hi>and his Groove-Fellows, for unjustly entring into, and detaining from the complai<g ref="char:EOLhyphen"/>nants one Founder meer of ground in a Croſs-rake, diſcovered out of the great White Rake, within the Liber<g ref="char:EOLhyphen"/>ty of</hi> Crumford <hi>and Juriſdiction of this Court (on</hi> Crumford-Moor) <hi>and alſo one Firſt-Taker-Meer of ground Eastward, or a Poſſeſſion for a First-Taker-Meer; and for getting there<g ref="char:EOLhyphen"/>in, and carrying away, One thouſand Loads of the Plaintiffs</hi> Lead-Ore, <hi>and converting it to the Defendants own uſe, to the Plaintiffs Damage of a Thouſand and fifty Pounds; And thereupon they bring their ſuit, and crave relief.</hi>
+               </p>
+               <p>
+                  <list>
+                     <head>The Defendants appear, and plead the 6 months Article in Bar.</head>
+                     <item>
+                        <label>Jurors Names.</label>
+                        <list>
+                           <item>
+                              <hi>E. D.</hi>
+                           </item>
+                           <item>
+                              <hi>A. B.</hi>
+                           </item>
+                           <item>
+                              <hi>F. T.</hi>
+                           </item>
+                           <item>
+                              <hi>E. W.</hi>
+                           </item>
+                           <item>
+                              <hi>R. C.</hi>
+                           </item>
+                           <item>
+                              <hi>A. T.</hi>
+                           </item>
+                           <item>
+                              <hi>A. H.</hi>
+                           </item>
+                           <item>
+                              <hi>J. H.</hi>
+                           </item>
+                           <item>
+                              <hi>T. R.</hi>
+                           </item>
+                           <item>
+                              <hi>H. C.</hi>
+                           </item>
+                           <item>
+                              <hi>T. P.</hi>
+                           </item>
+                           <item>
+                              <hi>W. F.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <pb n="66" facs="tcp:29368:39"/>
+                  <hi>Verdict.</hi> We the ſaid Jurors, be<g ref="char:EOLhyphen"/>ing elected, ſworn and charged to ſay the Truth in the premiſes, up<g ref="char:EOLhyphen"/>on our Oaths ſay, That the Defen<g ref="char:EOLhyphen"/>dants are not guilty of entring into and detaining from the Complain<g ref="char:EOLhyphen"/>ants, one Founder-meer of ground in a Croſs-Rake, diſcovered out of the great white Rake, within the Liberty of <hi>Crumford,</hi> and Juriſdi<g ref="char:EOLhyphen"/>ction of this Court; (on <hi>Crumford</hi> Moor) nor for entring into one Firſt-taker-meer Eaſtward, as in the Bill is ſet forth. Therefore (ac<g ref="char:EOLhyphen"/>cording to ſeveral Cuſtoms and Ar<g ref="char:EOLhyphen"/>ticles uſed within the ſaid <hi>Soak</hi> and <hi>Wapentake</hi>) upon our Oaths do fur<g ref="char:EOLhyphen"/>ther ſay, That the Complainants ſhall pay 4 <abbr>
+                     <hi>s.</hi>
+                  </abbr> for 12 mens Din<g ref="char:EOLhyphen"/>ners, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="bill">
+               <head>The Form of a Bill put to the Twenty Four, when called to view a Mine in queſtion.</head>
+               <pb n="67" facs="tcp:29368:39"/>
+               <head type="sub">William Fainwood, <hi>and</hi> John Have<g ref="char:EOLhyphen"/>all, <hi>and their Grove-fellows, to the Grand-jury, or Twenty Four, for the Soak and Wapentake of</hi> Wirkſ<g ref="char:EOLhyphen"/>worth; <hi>being called to the Gang-Rake, on</hi> Middletown <hi>moor, with<g ref="char:EOLhyphen"/>in the Liberty of</hi> Middletown <hi>a<g ref="char:EOLhyphen"/>foreſaid, the</hi> 16th. <hi>of</hi> April, 1681.</head>
+               <p>You are deſired to go down at the Hedge-ſhaft, and ſo through the Drift, and down the Turn, and then through the Drift at the Turn-foot, and ſo through the King's half Meer, then through the hole at the Rither point into <hi>Bates</hi> work, and ſo up his Turn and Shaft to the <hi>Day,</hi> and to give your opinions, whether it be not all one and the ſame Vein.</p>
+               <p>Then as many as judge it to be one and the ſame Vein, write their opinions, if they exceed 12.</p>
+            </div>
+            <div type="instructions">
+               <pb n="68" facs="tcp:29368:40"/>
+               <head>Some Examples of Dialling.</head>
+               <p>HAving provided your ſelf of a <hi>Dial</hi> in a ſquare Box, or a long ſquare Box, which is better; and alſo of a 2 foot Rule; and a String or Cord with a Plummet at the end: Suppoſe you be deſired, or (to try your own skill) would know the exact depth of a Hading Shaft and Turn, and how far they are driven in that Meer of ground to an inch. Firſt cauſe ſome one to go down the Shaft, then let your Cord or String down after him as far as you can, till it touch ſome<g ref="char:EOLhyphen"/>where on the ſide, obſerving the moſt convenient place at the <hi>Stows,</hi> where the String will go down dee<g ref="char:EOLhyphen"/>peſt and not touch the ſides, and where the Plummet touches the ſide, bid him make a mark at the end thereof; Then the String hanging there, apply the ſide of your Dial
+<pb n="69" facs="tcp:29368:40"/>thereto, as near croſſing the Rake as you can judge by the hading below, and obſerve what point the Needle ſtands on, which here you may ſuppoſe to be 52. and this point you muſt keep for your ſquare; then pull up the String, and meaſure it, and ſet the length thereof down in Rules and Inches, under the word <hi>Depth,</hi> as you may ſee in the Ex<g ref="char:EOLhyphen"/>ample following, which you may ſuppoſe here to be 24 Rules, and Inches 00; which when you have ſet down, and the point 52 direct<g ref="char:EOLhyphen"/>ly over againſt it; then go down to the place where he made the mark in the Shaft, and becauſe your Shaft hades, put one end of your Rule to the place where he made the mark, and lay the Rule croſs into the Shaft; then apply your <hi>Dial</hi> to the edge of the Rule, and wave the <hi>Dial</hi> and Rule up and down together till you ſee the Needle ſtand upon 52, your
+<pb n="70" facs="tcp:29368:41"/>ſquare point; then from the moſt convenient place of your Rule, (whether it be at the end, or in the middle, where the Cord will go down the deepeſt and not touch the ſides) there hold the Cord, and where it touches the ſide at the end below, there bid him make a mark; then (obſerving what Inches it lies againſt at the Rule, as here at 22.) pull up the Cord, and meaſure the length thereof, from the Rule to the mark below; not forgetting to hold your finger faſt upon the Cord, which you may ſuppoſe to be 16 Rules; which (becauſe you are plumming) muſt be ſet down under <hi>Depth;</hi> Then, having ſet down your point 52, and the 22 Inches in their reſpective places, as in the Ex<g ref="char:EOLhyphen"/>ample following appears, go down to the place where he made the laſt mark; and putting one end of your Rule thereto, lay the other into
+<pb n="71" facs="tcp:29368:41"/>the Shaft, and apply your <hi>Dial</hi> to the edge of the Rule, and wave them up and down together as you did before, till you ſee the Needle ſtand upon 52, the Rule and <hi>Dial</hi> lying cloſe together, let down your Cord as far as you can, till the Plum<g ref="char:EOLhyphen"/>met touch the ſide below, holding the ſtring at the middle or end of the Rule, or where you ſee it will go down deepeſt, and not hang on the ſides; then bid him make a mark below, where the Plummet touches the ſide; which done; pull up the Cord, and meaſure the length, firſt obſerving at what Inches of the Rule you held it; and ſo ſet down your <hi>Depth, Point</hi> and <hi>Length</hi> in their right places, which here you may ſuppoſe to be 26 Rules and 14 Inches, point 52, and the croſs Length taken thereon, 1 Rule and 2 Inches: Then go down to the mark he laſt made, and putting one
+<pb n="72" facs="tcp:29368:42"/>end of the Rule therein, lay the o<g ref="char:EOLhyphen"/>ther croſs, as before, and apply the ſide of the <hi>Dial</hi> to the edge of the Rule, and wave them up and down till the Needle ſtands on 52; then let down the ſtring to the Shaft foot, and bid him make a mark below, obſerving that the ſtring touches no where on the ſides, betwixt you and the mark he makes at the Shaft foot; ſo obſerving what Inch the ſtring lies againſt at the Rule, pull it up and meaſure it, how many Rules it is, which you may ſuppoſe here to be 28 Rules and 22 Inches, which ſet down, and the point 52, and al<g ref="char:EOLhyphen"/>ſo the number of Inches where the ſtring lies upon the Rule, which here is 18 Inches; And ſo you have fi<g ref="char:EOLhyphen"/>niſhed the Shaft: Then, going down to the Shaft foot, hold the <hi>Dial</hi> where the mark was made, and ſet the Needle upon 52; and if there be any occaſion to take a ſhort croſs
+<pb n="73" facs="tcp:29368:42"/>length, whereby to give you better liberty to take a long length in the drift; then take the ſhort length, the Needie ſtanding upon 52, apply the ſtring parallel to the ſide of the <hi>Dial;</hi> and having made a mark at the end of the ſhort length, mea<g ref="char:EOLhyphen"/>ſure how many Rules and Inches it is, (and ſet it down) which you may ſuppoſe here 1 Rule and 10 Inches: then ſet down the point di<g ref="char:EOLhyphen"/>rectly againſt it, by which you took that length as 52; which done, give him that is with you, the end of the ſtring, and let him go back into the Drift as far as he can, till the ſtring begins to touch ſomwhere on the ſide in the middle, and then holding one end of the ſtring in the mark you made, when you took the ſhort length; obſerve that the ſtring touches no where betwixt him and you; then apply the ſide of your <hi>Dial</hi> to the ſtring, taking notice
+<pb n="74" facs="tcp:29368:43"/>that the <hi>Dial</hi> and ſtring lie ſtreight one with another, and ſo take the point the Needle ſtands on, which here you may ſuppoſe to be 36; then let him that is at the other end, either make a mark on the ſide, or drop a ſtone to the ſole of the Drift, as you find occaſion; which done, draw the ſtring back, and meaſure it, and ſet the length thereof down in Rules and Inches, which you may here ſuppoſe to be 22 Rules and 8 Inches, and over againſt it the point 36: Then go to the place where he dropt the ſtone, or made the mark, and laying the Rule or String croſs, one end being in the mark, take a ſhort length [as you find occaſion] ſetting the Needle upon 52; which done, ſet down the point, and this ſhort length o<g ref="char:EOLhyphen"/>ver againſt it, which here you may, ſuppoſe to be 10 Inches: having ſo done, and made a mark, or dropt
+<pb n="75" facs="tcp:29368:43"/>a Plum at the end of theſe 10 Inches, this ſhort length will give you li<g ref="char:EOLhyphen"/>berty to take a long length forwards in the Drift: So let him take the ſtring, and go as far backwards as he can, till the ſtring almoſt touches ſomwhere in the middle on the ſide; then (holding one end in the mark you laſt made, when you took the ſhort length) ſtretch the ſtring ſtreight, and apply the ſide of the <hi>Dial</hi> to the ſtring, and take the point the Needle ſtands on, which here you may ſuppoſe to be 36; ſo ſet down the point, and bid him make a mark at the end; then pull back the ſtring and meaſure it, ſet<g ref="char:EOLhyphen"/>ting down the length directly a<g ref="char:EOLhyphen"/>gainſt the point you laſt took, which you may here ſuppoſe to be 24 Rules and 14 Inches; and that to reach to the Turn-head. So being now come to the Turn-head, you muſt fall to plumming again.</p>
+               <pb n="76" facs="tcp:29368:44"/>
+               <p>Therefore ſet the Needle upon 52, your old Square, and if there be any need, to take a ſhort length, whereby to give you liberty to plum the deeper in the Turn, then you muſt take it; ſo bidding him go down the Turn, let the ſtring down after him, and where it touches on the ſide, let him make a mark; you holding one end of your Rule in the mark that was made at the Turn-head, lay the edge of the Rule to the ſide of the <hi>Dial,</hi> and wave them together till the Needle ſtands upon 52; then ſet down that ſhort length, which you may here ſuppoſe to be 8 Inches, and pull up the ſtring and meaſure it; which you may here ſuppoſe to be 28 Rules and 6 Inches; ſet it down, and the point 52 alſo; which done, go down to the mark he made; and becauſe the Turn hades, put one end of the Rule in the mark, and lay the other
+<pb n="77" facs="tcp:29368:44"/>croſs into the Turn; ſo put the ſide of the <hi>Dial</hi> to the edge of the Rule and wave them together, till the Needle ſtands upon 52: Then let the ſtring down to the Turn-foot; if it will not touch the ſides betixt the Turn-foot and you; ſo holding the ſtring at the end of the Rule, ſet down this ſhort length, which is 1 Rule, and the point 52; and bid<g ref="char:EOLhyphen"/>ding him make a mark at the Turn-foot, meaſure the length, which you and 2 Inches; And ſo you have plummed the Turn.</p>
+               <p>If you have any further to Dial, obſerve to take your ſquare point, where there is occaſion; for if you omit taking your ſquare, you will loſe your ſelf in the exactneſs of the grounds length, ſomtimes making it more, and ſometimes leſs than really it is, and ſo commit great error, when you come to Dial it obove
+<pb n="78" facs="tcp:29368:45"/>ground: You muſt alſo take care that you hold your Rule level, when you take your croſs lengths, and al<g ref="char:EOLhyphen"/>ſo your ſtring when you take lengths in Drifts; and by that means you will have the exact depth: You muſt alſo obſerve that your Rule and ſtring lie parallel with the edge of your <hi>Dial,</hi> that is, equally at both ends; or elſe you will miſs in taking the true point. Under ground the <hi>Dial</hi> is guided by the ſtring; but above ground the ſtring is guided by the <hi>Dial.</hi>
+               </p>
+               <div type="examples">
+                  <pb n="79" facs="tcp:29368:45"/>
+                  <p>
+                     <table>
+                        <head>Example.</head>
+                        <row>
+                           <cell role="label" cols="2">
+                              <hi>Depth:</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Points.</hi>
+                           </cell>
+                           <cell role="label" cols="2">
+                              <hi>Length.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Ru.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Inch.</hi>
+                           </cell>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <hi>Ru.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Inch.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>24.</cell>
+                           <cell>00.</cell>
+                           <cell>52:</cell>
+                           <cell>00:</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>16.</cell>
+                           <cell>00.</cell>
+                           <cell>52.</cell>
+                           <cell>00.</cell>
+                           <cell>22.</cell>
+                        </row>
+                        <row>
+                           <cell>26.</cell>
+                           <cell>14.</cell>
+                           <cell>52.</cell>
+                           <cell>01.</cell>
+                           <cell>02.</cell>
+                        </row>
+                        <row>
+                           <cell>28.</cell>
+                           <cell>22.</cell>
+                           <cell>52.</cell>
+                           <cell>00.</cell>
+                           <cell>18.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                           <cell>52.</cell>
+                           <cell>01.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                           <cell>36.</cell>
+                           <cell>22</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                           <cell>52.</cell>
+                           <cell>00.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell>00:</cell>
+                           <cell>00.</cell>
+                           <cell>36.</cell>
+                           <cell>24.</cell>
+                           <cell>14.</cell>
+                        </row>
+                        <row>
+                           <cell>28.</cell>
+                           <cell>06.</cell>
+                           <cell>52.</cell>
+                           <cell>00.</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell>30.</cell>
+                           <cell>02.</cell>
+                           <cell>52.</cell>
+                           <cell>01.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell role="total" cols="5">
+                              <hi>That is</hi> 152 <hi>Ru.</hi>— 44 <hi>Inch.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And the Rule containing 2 Foot, it makes in all 307 Foot and 8 In<g ref="char:EOLhyphen"/>ches for the depth of the Shaft and Turn; which by Reduction makes 51 Fathoms, 1 Foot and 8 Inches, for the true depth of that Mine.</p>
+                  <p>
+                     <label>Example.</label> 44 Inches make 3 Foot 8 Inches; which ſet below 304; and ad<g ref="char:EOLhyphen"/>ded makes 307 0/1 8/2</p>
+                  <pb n="80" facs="tcp:29368:46"/>
+                  <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap>
+                  <p>Now, if you would know how much your Shaft and Turn haded, you muſt add up the lengths that ſtand againſt your ſquare-point 52. As for Example.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>Rules</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Inches</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>22.</cell>
+                        </row>
+                        <row>
+                           <cell>01.</cell>
+                           <cell>02.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>18.</cell>
+                        </row>
+                        <row>
+                           <cell>01.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell>01.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell role="total">
+                              <hi>Rules</hi> 03.</cell>
+                           <cell role="total">70. <hi>Inches.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Which by Reduction makes 11 Foot and 10 Inches; and ſo much your Shaft and Turn hades. To know the exact length you have driven in your ground, without
+<pb n="81" facs="tcp:29368:46"/>laying it forth above, you muſt add up the Rules and Inches that ſtands under the word <hi>Length,</hi> againſt your by-points; which in this Example is only
+<table>
+                        <row>
+                           <cell>
+                              <hi>Rules</hi> 22.</cell>
+                           <cell>and 8. <hi>Inches.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>and 24.</cell>
+                           <cell>and 14.</cell>
+                        </row>
+                        <row>
+                           <cell role="total">
+                              <hi>That is,</hi> Rules 46.</cell>
+                           <cell role="total">and 22. <hi>Inches.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Which by Reduction is 93 Foot and 10 Inches; which makes 31 Yards and 10 Inches you have dri<g ref="char:EOLhyphen"/>ven; But if you are to dial and lay it out above ground, ſet the <hi>Dial</hi> upon the point 52; and looking in your Note for 22 Inches, which was the firſt length; put one end of the Rule to that place of the <hi>Stows</hi> where you held the ſtring when you began to plum the Shaft; the Rule lying to the ſide of the <hi>Dial,</hi> and the Needle ſtanding upon 52, make a mark at 22 Inches upon the ground; and ſo you have done the firſt point: And in like manner you muſt do all the reſt, if you go over
+<pb n="82" facs="tcp:29368:47"/>theſe points ſingly, one by one; but becauſe here is ſeveral ſquare-points before you come to any by-point, that goes as the Rake goes; there<g ref="char:EOLhyphen"/>fore you may take all theſe ſquare points together, firſt adding their lengths up, and knowing how many Rules and Inches they make: As for Example.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">
+                              <hi>Ru.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Inch.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>The first point is</hi>
+                           </cell>
+                           <cell>00.</cell>
+                           <cell>22.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>The ſecond point is</hi>
+                           </cell>
+                           <cell>01,</cell>
+                           <cell>02.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>The third point is</hi>
+                           </cell>
+                           <cell>00.</cell>
+                           <cell>18.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>The fourth point is</hi>
+                           </cell>
+                           <cell>01.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell role="total">
+                              <hi>Sum is</hi>
+                           </cell>
+                           <cell role="total">2.</cell>
+                           <cell role="total">52.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Which by Reduction makes 4. Rules and 4 Inches; that is, 3 yards wanting 8 Inches, and ſo much your Shaft hades; Therefore if you firſt meaſure out ſo much upon your Cord, and hold one end at the ſame place on the <hi>Stows,</hi> and give him the other end to go forwards with; then the ſide of the <hi>Dial</hi> lying
+<pb n="83" facs="tcp:29368:47"/>ſtreight with the ſtring, and the Needle ſtanding upon 52, bid him make a mark there; and ſo you have taken all the 4 points together, and found the mark above ground, which he made at the Shaft-foot: Then go to the mark he made, and looking in your Note what your next length is, (which is 22 Rules and 8 Inches) meaſuring out ſo much upon your Cord; let him go forwards with one end, and cauſe ſome one to hold the other end in the mark he laſt made; then look in your Note for your point over againſt that length, which is 36; ſo ſetting the Needle upon 36, let him that has the Plummet<g ref="char:EOLhyphen"/>end bring the Cord to the ſide of the <hi>Dial,</hi> you ſtanding ſome diſtance from him that holds the other end in the mark: Then (the Cord ly<g ref="char:EOLhyphen"/>ing exactly even with the ſide of the <hi>Dial,</hi> and the Needle ſtanding up<g ref="char:EOLhyphen"/>on
+<pb n="84" facs="tcp:29368:48"/>36) bid him make a mark at the end of the Plummet; and ſo you have done that length; Go then to the laſt mark, and put one end of your Rule in it, and ſet the Nee<g ref="char:EOLhyphen"/>dle upon 52, laying the edge of the Rule to the <hi>Dial,</hi> the length being but 10 Inches, make a mark there; Then look in your Note for your next lengths which is 24 Rules and 14 Inches; which meaſure out, and let him go on with the ſtring, cau<g ref="char:EOLhyphen"/>ſing the other end to be held in the laſt mark; and ſetting the Needle upon 36, the point over againſt that length, bid him wave the Cord up and down till it lies exactly ſtreight with the ſide of the <hi>Dial;</hi> then bid him make a mark; ſo you have done that length. Laſtly, be<g ref="char:EOLhyphen"/>cauſe the other 2 lengths are both to be taken upon one point, and there being no other by-point betwixt them, therefore you may add the
+<pb n="85" facs="tcp:29368:48"/>lengths together (and take them at once) which is 1 Rule and 8 Inches, the Needle ſtanding upon 52; the end hereof is the place above ground directly over the mark you made at the Turn-foot.</p>
+                  <p>Now, to know whether you have dialled this exactly or no (without going over it again) firſt add all your ſquare lengths together: As for Example.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>Ru.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Inch.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>22.</cell>
+                        </row>
+                        <row>
+                           <cell>01.</cell>
+                           <cell>02.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>18.</cell>
+                        </row>
+                        <row>
+                           <cell>01.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>10.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell>01.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell role="total">
+                              <hi>Sum is</hi> 5.</cell>
+                           <cell role="total">22.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Which conve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted into Fe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t makes 11 Foot 10 Inches; and ſo much your Shaft and Turn hades, and declines from the place you firſt begun to plum at the <hi>Stows:</hi> Then add up
+<pb n="86" facs="tcp:29368:49"/>the lengths you took Rake-ways, which was only
+<table>
+                        <row>
+                           <cell>22. <hi>Ru.</hi>
+                           </cell>
+                           <cell>08. <hi>Inch.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>and 24.</cell>
+                           <cell>14.</cell>
+                        </row>
+                        <row>
+                           <cell role="total">26</cell>
+                           <cell role="total">22</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Which by Reduction is 93 Foot and 10 Inches, or 31 yards and 10 Inches: ſo taking your Rule and meaſuring out the 46 Rules and 22 Inches; give him the plummet-end to go Rake-ways, cauſing ſome one to hold the other end at the place on the <hi>Stows</hi> where you firſt began to plum; then go you to the middle of the ſtring, and ſetting the Nee<g ref="char:EOLhyphen"/>dle upon 36, bid him wave it up and down, till you ſee the ſtring lie ex<g ref="char:EOLhyphen"/>actly ſtreight with the ſide of the <hi>Dial,</hi> then bid him make a mark at the end: go to this mark, and mea<g ref="char:EOLhyphen"/>ſure out your ſquare length, which in all was 5 Rules and 22 Inches; give him the end, holding the other end in the mark, ſet the Needle up<g ref="char:EOLhyphen"/>on 52, bid him wave the ſtring up
+<pb n="87" facs="tcp:29368:49"/>and down, till it lie parallel with the Box: Then bid him make a mark: And if this mark hit the mark you made when you dialled it before, you have done the work exactly, or elſe you have committed ſome Error.</p>
+                  <p>Note, this Rule always holds true, when you take ſquare lengths, and your lengths forward, Rake-ways, or any ways, by one point: As here you took by the point 36.</p>
+               </div>
+               <div type="section">
+                  <head>How to plum Shafts and Turns that hade, and beat into the end.</head>
+                  <p>FIrſt, let down your Cord as far as you can, holding it at the moſt convenient place on the <hi>Stows,</hi> where it will go down deepeſt; and where the end touches below bid him make a mark: Then apply your <hi>Dial</hi> to the ſide of the Cord, (whilſt it hangs there) and take
+<pb n="88" facs="tcp:29368:50"/>that point you judge to be the near<g ref="char:EOLhyphen"/>eſt croſſing the Rake for your ſquare point, which here you may ſuppoſe to be 48; ſet the point down, pull up the ſtring and meaſure it, which ſuppoſe here to be 26 Rules and 8 Inches; ſet them down: Then go down to the mark he made, put one end of the Rule therein, laying the other croſs into the Shaft, apply the <hi>Dial</hi> to the edge of the Rule, the Needle ſtanding upon 48, let down the Cord, (which by reaſon that the Shaft beats much one way, the Plummet will fall upon the end) and where it touches the end bid him make a mark, obſerving what Inches of the Rule you hold the ſtring at, which ſuppoſe here to be 18; ſet them down, and the point 48 alſo; Then go down to the mark he made in the end of the Shaft, and putting one end of your Rule or ſtring (whether you find
+<pb n="89" facs="tcp:29368:50"/>more convenient) in that mark, lay out the other end towards the o<g ref="char:EOLhyphen"/>ther end of the Shaft, and take the neareſt ſquare point you can to 48; which here ſuppoſe to be 32; make a mark at the end of the ſtring, in the other end of the Shaft, if you take it quite through; but if you take it half way by the Rule, then perhaps the Rule may touch the ly<g ref="char:EOLhyphen"/>ing-ſide, and then you muſt make a mark there, the Needle ſtanding upon 32, and ſet down the length taken upon that point; and ſo af<g ref="char:EOLhyphen"/>terwards take a croſs length from that mark upon your ſquare 48; but if you take it quite through the Shaft, to give more liberty to plum deeper the next time; then mea<g ref="char:EOLhyphen"/>ſuring it, ſet down the length, and the point 32 over againſt it, which here you may ſuppoſe to be 2 Rules and 8 Inches; which done, hold one end of the ſtring in that mark
+<pb n="90" facs="tcp:29368:51"/>you made in the end of the Shaft, and let down the Cord as far as you can, till it either touch the ſide or end of the Shaft; which here you may ſuppoſe to touch both end and ſide in the corner of the Shaft; bid him make a mark there: Then pull up the Cord, and meaſuring it, ſet it down under <hi>Depth,</hi> which you may ſuppoſe to be 8 Rules and 10 Inches: And here you are to take no point, this being only a plum: Then go down to the mark, and put one end of the Rule therein, and lay the other againſt the <hi>Wough,</hi> lengthways of the Shaft, and apply the <hi>Dial</hi> to the ſide of the Rule, the Needle ſtanding upon 52, make a mark at the end of your Rule, or where you ſee moſt convenient; ſo counting the Inches, ſet them down, and the point 32, which here ſuppoſe to be 23 Inches: But if it chance, when your Rule lies to
+<pb n="91" facs="tcp:29368:51"/>the <hi>Wough,</hi> you cannot take the point 32 exactly; In ſuch caſe, put the end of the Rule 3 or 4 Inches, or more or leſs, as you ſee conve<g ref="char:EOLhyphen"/>nient, towards the hanging ſide, but be ſure it be level with the ſame mark, and then ſet down ſo many Inches for a length as you judge it to be, and over againſt the ſquare point 48: or if it happen that the <hi>Wough</hi> flies back, ſo that the Rule needs not touch it, yet keep the Rule and <hi>Dial</hi> together, the Needle ſtanding upon 32, ſet down that length you think moſt conveni<g ref="char:EOLhyphen"/>ent to take, and then fall to plum<g ref="char:EOLhyphen"/>ming again: And if your Plummet falls upon the end of the Shaft, or upon both end and ſide, as before, yet take your length upon the point 32, by help of either of thoſe ways you laſt took it; that is to ſay, by ſhifting your Rule or String ſome<g ref="char:EOLhyphen"/>thing nearer the hanging ſide, ta<g ref="char:EOLhyphen"/>king
+<pb n="92" facs="tcp:29368:52"/>care to ſet down thoſe Inches you ſo allow againſt your ſquare point: But if it falls upon the ſide, and the Shaft hath left off under<g ref="char:EOLhyphen"/>beating, and goes ſtreight, only hades, then lay your Rule croſs into the Shaft, and take your length upon the ſquare point 48, till you have finiſhed plumming the Shaft: So by obſerving theſe directions well, you may exactly plum and meaſure to an Inch, any Shafts, Turns, Lobs or Stumps, that either hade, or hade and underbeat.</p>
+               </div>
+               <div type="section">
+                  <pb n="93" facs="tcp:29368:52"/>
+                  <head>The Table of the foregoing Operation.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label" cols="2">
+                              <hi>Depth.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Points.</hi>
+                           </cell>
+                           <cell role="label" cols="2">
+                              <hi>Length.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ru.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Inch.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Ru.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Inch.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>26.</cell>
+                           <cell>08.</cell>
+                           <cell>48.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>12.</cell>
+                           <cell>10.</cell>
+                           <cell>48.</cell>
+                           <cell>00.</cell>
+                           <cell>18.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                           <cell>32.</cell>
+                           <cell>02.</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell>08.</cell>
+                           <cell>10.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                           <cell>32.</cell>
+                           <cell>00.</cell>
+                           <cell>23.</cell>
+                        </row>
+                        <row>
+                           <cell role="total" cols="5">Sum 46. Ru. 28. Inch.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Which converted into Feet makes 94 Foot and 4 Inches; For you muſt obſerve, that the 28 Inches, is equal to 1 Rule and 4 Inches, or 2 Foot 4 Inches: So if you divide 94 Foot and 4 Inches by 6, the number of Feet in a Fathom, you will find the Shaft to be 15 Fathoms, 4 Foot and 4 Inches deep: Now if you would know how much the Shaft hades and under-beats, and would find the place above ground where you made the mark laſt below; Firſt, add the lengths together you took
+<pb n="94" facs="tcp:29368:53"/>upon your ſquare point 48; which here was only 18 Inches: Then put<g ref="char:EOLhyphen"/>ting one end of the Rule to that place of the <hi>Stows</hi> where you firſt began to plum, lay the <hi>Dial</hi> to the ſide of the Rule, the Needle ſtan<g ref="char:EOLhyphen"/>ding upon 48, make a mark there: Then add together the lengths you took upon the point 32, which makes 3 Rules and 7 Inches; mea<g ref="char:EOLhyphen"/>ſure out ſo much, holding one end in the laſt mark, let him go forwards with the other, ſet the Needle upon 32, the ſtring lying ſtreight with the ſide of the <hi>Dial,</hi> bid him make a mark there, and this is the exact place above ground right over that where you made the mark laſt below.</p>
+               </div>
+               <div type="section">
+                  <head>How to plum and dial in an open Rake, where there is many croſs drifts and turnings, and afterward to ſquare the ſame above ground.</head>
+                  <p>FIrſt plum the Shaft, Turn, Lob and Stumps if there be any, by
+<pb n="95" facs="tcp:29368:53"/>the directions afore-delivered, chu<g ref="char:EOLhyphen"/>ſing that point for your <hi>ſquare</hi> which you judge goes neareſt croſs to the Rake or Pipe; which ſuppoſe here to be 28; and take all your croſs lengths upon that point, till ſuch time as you have done plumming, unleſs it happen that your Plummet falls upon the end of the Shaft or Turn as you Plum; If ſo, then take a new ſquare to this ſquare of 28, as you did in the laſt Example before, or the neareſt it you can; ſetting down the length and points in or<g ref="char:EOLhyphen"/>der: Now ſuppoſe you come to take a length forwards into the Drift at the Shaft foot, having firſt made a mark there where the Plum fell, let a Boy hold one end of the ſtring therein, and bid another man take the Plummet, and go as far back in<g ref="char:EOLhyphen"/>to the Drift as he can, till the plum he hath in his hand touches the
+<pb n="96" facs="tcp:29368:54"/>ſide; and ſtretching the ſtring ſtreight, obſerve that it touches no where betwixt that end he holds in the mark and the Plum<g ref="char:EOLhyphen"/>met the other man hath in his hand, (if it touches the ſide bid him come nearer) then ap<g ref="char:EOLhyphen"/>ply the <hi>Dial</hi> to the ſide of the ſtring and when the ſtring and <hi>Dial</hi> lie exactly ſtreight together, take the point the Needle ſtands on, which ſuppoſe here to be 44: Set down the point, bid him make a mark at the Plummet: then pull back the ſtring and meaſure it; which ſup<g ref="char:EOLhyphen"/>poſe here to be 12 Rules and 14 In<g ref="char:EOLhyphen"/>ches: Then go to the mark he made hold one end of the ſtring in it, bid him go back into the Drift with the Plummet as far as he can, till the middle of the ſtring begins to touch the ſide; then ſtretching the ſtring ſtreight, obſerve that it touches no
+<pb n="97" facs="tcp:29368:54"/>where betwixt them that hold it, ap<g ref="char:EOLhyphen"/>ply the <hi>Dial</hi> to the ſide of it, and take the point the Needle ſtands on, which here ſuppoſe to be 50; ſet it down, bidding him make a mark at the Plummet; pull back the ſtring and meaſure it, which ſuppoſe here to be 8 Rules and 6 Inches; which ſet down over againſt the point: Then go to the laſt mark he made, hold one end of the ſtring therein, bid the other go back with the Plum as far as he can, ſtretching the ſtring ſtreight, obſerve that it tou<g ref="char:EOLhyphen"/>ches no where on the ſide betwixt them that hold it; apply the ſide of your Dial parallel to the ſtring, and take the point the Needle ſtands on, which ſuppoſe here to be 48; ſet it down, bid him make a mark at the end; pull back the ſtring and meaſure it, which ſuppoſe here to be 14 Rules and 8 Inches; then go to that mark, and laying the ſtring
+<pb n="98" facs="tcp:29368:55"/>out as before directed, take the point there, which ſuppoſe to be 52; ſet it down, and making a mark at the end, let this be the <hi>Fore-field</hi> of your work: pull back the ſtring and meaſure it, which ſuppoſe to be 16 Rules and 10 Inches: Then go up to the day, and having gone over the lengths and points you took in plumming the Shaft, and found the mark above ground you made at the Shaft-foot, (which you may do by the Rules and Directi<g ref="char:EOLhyphen"/>ons already delivered,) meaſure out your firſt length, 12 Rules and 14 Inches, hold one end of the ſtring in the mark, bid the other man go forwards with the Plummet, then do you ſet the Needle upon 44, (and bid him wave the ſtring to and fro, till it lies exactly ſtreight with the ſide of the Dial,) the Nee<g ref="char:EOLhyphen"/>dle ſtanding upon that point, bid him make a mark there; And ſo you
+<pb n="99" facs="tcp:29368:55"/>have done your firſt point; and in like manner you muſt do all the reſt following, till you find the place above ground right over the mark you made at the <hi>Fore-field</hi> below; which done, make a mark, and drive down a <hi>Stake.</hi> Now if you would know how far you are driven in your Meer, you muſt ſquare the ground above: therefore tie one end of your Cord to this <hi>Stake,</hi> and bid him go croſs with the other end, 10, 20, or 30 yards, more or leſs, as you think good; ſet the Needle upon 28, which was the ſquare you took when you firſt began to plum the Shaft, and do you ſtand in the middle (betwixt him that holds the ſtring, and the <hi>Stake</hi>) with the Dial, bid him move the ſtring to and fro, or do you ſhift, if you ſee cauſe, till the ſtring lies exactly ſtreight, and equally even with the ſide of the Dial, the Nee<g ref="char:EOLhyphen"/>dle
+<pb n="100" facs="tcp:29368:56"/>being preciſely upon 28, bid him make a mark at the end, drive down a <hi>Stake</hi> there, and pulling the ſtring ſtreight, faſten it to the <hi>Stake</hi> and leave it; Then come back to the Shaft, having another ſtring ready, put one end to that place of the <hi>Stows</hi> from which you firſt began to plum, ſet your Needle upon that point, which is exactly ſquare, to that ſquare you took when you firſt be<g ref="char:EOLhyphen"/>gan to plum the Shaft, which was 28; therefore the point that ſquares it is 44: then let him go forwards with the ſtring upon that point, till the ſtring you faſtened betwixt the <hi>Stakes,</hi> go you into the middle, and apply the Dial to the ſide of the ſtring, bid him move it up and down till the Needle ſtands exactly upon 44; then bid him make a mark where the ſtrings croſs one another, and drive down a <hi>Stake</hi> there; So
+<pb n="101" facs="tcp:29368:56"/>the diſtance meaſured from this <hi>Stake</hi> to the <hi>Stows</hi> is the true length of your ground driven.</p>
+               </div>
+               <div type="section">
+                  <head>How to Plum, and Dial, and bring up Soughs, Drifts, or Addits, to hit any place or depth deſired; and to know whe<g ref="char:EOLhyphen"/>ther a Sough begun will lay a Mine dry or not.</head>
+                  <p>HAving firſt plum'd your Shaft, Turn, Lobs and Sumps by the Rules afore-deliver'd, and know<g ref="char:EOLhyphen"/>ing the depth thereof: Becauſe few or any Miners underſtand a <hi>Qua<g ref="char:EOLhyphen"/>drant,</hi> the Inſtrument for this pur<g ref="char:EOLhyphen"/>poſe may be like this following, <hi>viz.</hi> A Water Stand, with one or more Channels; which the Miner may make himſelf, upon an old ſeaſon'd Joyce, cutting a morteſs therein a yard long, or more, as his own di<g ref="char:EOLhyphen"/>ſcretion directs, plaining the ſame very well and even.</p>
+                  <pb n="102" facs="tcp:29368:57"/>
+                  <figure>
+                     <figDesc>dialing diagram</figDesc>
+                  </figure>
+                  <pb n="103" facs="tcp:29368:57"/>
+                  <p>Having the Inſtrument ready, and a Staff or Pole of 5 or 6 yards long, which you may call the Perpendi<g ref="char:EOLhyphen"/>cular-pole; as A B preſenteth: D the mark levelled at: <hi>m</hi> the Level<g ref="char:EOLhyphen"/>ler looking over the Channel: <hi>a</hi> the hole above the Channel of Water, through which the Leveller looks: <hi>e</hi> the Chanel full of Water. o the pin at the end of the Channel <hi>n</hi> a piece of wood with three Iron-forks at the end, to ſtick in the ground: L a Board ſet up croſs over the Channel, having a little ſlit under it, as at <hi>a:</hi> E F the Levelling-Line.</p>
+               </div>
+               <div type="section">
+                  <head>Suppoſe you be called to level a piece of ground, to know whether it will lay dry a Mine (by a Sough) that is to be begun in any place appoin<g ref="char:EOLhyphen"/>ted.</head>
+                  <p>Firſt view over the ground, then erect your Inſtrument at the Mine,
+<pb n="104" facs="tcp:29368:58"/>and cauſe ſome one to take the Pole, and go as far towards the place where you intend to begin your Sough, as the length of your Pole will admit; then ſee that the Water ſtands even in the Channel. look through the ſlit at <hi>a,</hi> and bid him ſhift the Pole to and fro, till you ſee the pin at o interpoſe your eye and the mark you level at, as D: which done, bid him make a mark at the foot of the Pole; and ſhift your Inſtrument thither, and erect it there, ſetting down the length of your Pole in Yards and Inches: Then do as you did before, till you have finiſhed the the whole, and come to the place where you in<g ref="char:EOLhyphen"/>tend to begin your Sough: Then reducing your Poles into Fathoms, compare them with the depth of your Mine, and thus you may know whether it will lay it dry or no.</p>
+                  <p>
+                     <hi>Naturam ubi<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> compendium am are.
+<pb n="105" facs="tcp:29368:58"/>Senſibus haec imis (res uon eſt parva) repone.</hi>
+                  </p>
+                  <p>Ingraft theſe Precepts deep within your ſenſes.</p>
+                  <p>The Matter's good, and got by ſmall Expences.</p>
+               </div>
+               <closer>
+                  <dateline>from my Lodging near the <hi>Apo<g ref="char:EOLhyphen"/>thaceries-Hall</hi> in <hi>Black Fry<g ref="char:EOLhyphen"/>ars, London.</hi> 
+                     <date>Feb. 8 1680/1.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="addendum">
+            <pb facs="tcp:29368:59"/>
+            <p>
+               <table>
+                  <head>The last Opperation in Dialling.</head>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>Depth.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Points.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Length.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Ru.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Inch.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Ru.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Inch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>28.</cell>
+                     <cell>008</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>44.</cell>
+                     <cell>12.</cell>
+                     <cell>14.</cell>
+                  </row>
+                  <row>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>50.</cell>
+                     <cell>08.</cell>
+                     <cell>06.</cell>
+                  </row>
+                  <row>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>48.</cell>
+                     <cell>14.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>52.</cell>
+                     <cell>16.</cell>
+                     <cell>10.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:29368:59"/>
+            <list>
+               <head>A TABLE ſhewing the CON<g ref="char:EOLhyphen"/>TENTS of the Articles.</head>
+               <item>1. THe firſt ſhews, the Conſtitution of the Bar-Maſter, and what a Meer of ground contains.</item>
+               <item>2. That every man muſt free the Old as well as New; that the 13 Diſh is the Farmer's lot</item>
+               <item>3. That none ſhall ſet on Old Mines in poſſeſſion without the Bar-Maſter and Twenty Four.</item>
+               <item>4. That Grooves are no Intail'd Eſtate but paſs by Aſſignment</item>
+               <item>5. Concerning poſſeſſions taken away by theft or other indirect ways.</item>
+               <item>6. The time of laying forth the Mi<g ref="char:EOLhyphen"/>ners ground.</item>
+               <item>7. That Croſſes and Holes ſerve but for 3 days, and that Timber and Stows gives the Right.</item>
+               <item>8. That the Miner ſhall chaſe on his Meer.</item>
+               <item>9. That the Bar-maſter ought to give warning, or nick the Stows, before he gives the ground away.</item>
+               <item>10. What is to be done when two or more ſet Stows for one Meer in a <hi>Rake:</hi>
+               </item>
+               <item>11. That the Farmer ſhall provide im<g ref="char:EOLhyphen"/>partial Diſhes.</item>
+               <pb facs="tcp:29368:60"/>
+               <item>12. That Smytham nor Foreſted Ore pay no Duties.</item>
+               <item>13. The Miners Liberties, and Timber from the Waſts.</item>
+               <item>14. The Miners ſhall have ways to their Grooves.</item>
+               <item>15. Concerning Fatts and Sieves.</item>
+               <item>16. What ground may be digged in.</item>
+               <item>17. That none ſhall keep falſe Gages.</item>
+               <item>18. What may be done when the Bar-maſter neglects coming to meaſure.</item>
+               <item>19. The meaſure to be made, and the penalty of ſhaking the Diſh.</item>
+               <item>20. What Cope is, and for what paid.</item>
+               <item>21. That if any man claim, he ought to arreſt, and the Diſh to be bound with Sureties.</item>
+               <item>22. That a Court is to be held within ten days, upon requeſt.</item>
+               <item>23. That Pawns ſhall be put in, or no Plea.</item>
+               <item>24. That two great Courts be kept.</item>
+               <item>25. That the Defendant ſhall have ſix days before any Court.</item>
+               <item>26. That the Ore got after arreſt is li<g ref="char:EOLhyphen"/>able to the Trial.</item>
+               <item>27. What men, and from whence, ſhall ſerve for Jurors.</item>
+               <item>28. That Maintainers as well as Mi<g ref="char:EOLhyphen"/>ners ſhall ſerve.</item>
+               <pb facs="tcp:29368:60"/>
+               <item>29. What Verdicts for wages, and to prove Intereſt ſhall ſuffice.</item>
+               <item>30. The time of arreſting after Trial.</item>
+               <item>31. That none ſhall ſue for Mineral Rights but in <hi>Barmoot-Court.</hi>
+               </item>
+               <item>32. That no Bailiff or Officer ſhall ſerve Writs or Warrants on the Mine.</item>
+               <item>33. What is to be done when any re<g ref="char:EOLhyphen"/>fuſeth to maintain.</item>
+               <item>34. Concerning Water-Mines, Soughs and Engines.</item>
+               <item>35. When any hath found the Vein, they ought to direct the next Taker.</item>
+               <item>36. What is to be done when one poſ<g ref="char:EOLhyphen"/>ſeſſes the Front of anothers Mine.</item>
+               <item>37. That the firſt Workman ſhall work, and the Claimer arreſt.</item>
+               <item>38. The liberty he hath that finds a <hi>Pee.</hi>
+               </item>
+               <item>39. How two Veins may be known.</item>
+               <item>40. The time of firing.</item>
+               <item>41. Concerning treſpaſſing in anothers ground.</item>
+               <item>42. The penalty of thoſe that fill up other mens Grooves.</item>
+               <item>43. That none ſhall paſs away parts in variance for maintenance.</item>
+               <item>44. Who ſhall enquire of Mineral ho<g ref="char:EOLhyphen"/>micide.</item>
+               <pb facs="tcp:29368:61"/>
+               <item>45. Concerning Weapons, and draw<g ref="char:EOLhyphen"/>ing Bloud upon the Mine.</item>
+               <item>46. The Liberty of Waſh-troughs.</item>
+               <item>47. Concerning Caving on the Mine.</item>
+               <item>48. Concerning Fellony.</item>
+               <item>49. That Stocks ought to be kept on the Mines.</item>
+               <item>50. Concerning not appearing at the <hi>Barmoot-Court.</hi>
+               </item>
+               <item>51. What the 24 may do, when called to view Mines in controverſie.</item>
+               <item>52. That none ſhall hinder the 24 from doing their Office.</item>
+               <item>53. That the Bar-maſter ought to collect all Fines and Forfeitures.</item>
+               <item>54. That if any will make claim, he ſhall do it within ſix months after work<g ref="char:EOLhyphen"/>manſhip.</item>
+               <item>55. Concerning putting in pawns and taking parts on both ſides.</item>
+               <item>56. Concerning ſuing for wages.</item>
+               <item>57. Concerning putting in a Bill of Complaint.</item>
+               <item>58. That none ſhall hinder the 24 from Dialling.</item>
+               <item>59. That all perſons ſhall put up their Bills while the Court ſits.</item>
+            </list>
+            <pb facs="tcp:29368:61"/>
+            <list>
+               <head>The Contents of the ſecond BOOK.</head>
+               <item>1. THe form of a Bill of Complaint at the Great <hi>Barmoot-Court.</hi>
+               </item>
+               <item>2. The form of a Croſs bill at the ſame Court.</item>
+               <item>3. The Jurors Verdict upon the afore<g ref="char:EOLhyphen"/>ſaid Bills.</item>
+               <item>4. The form of a Bill at the ſmall <hi>Bar<g ref="char:EOLhyphen"/>moot-Court.</hi>
+               </item>
+               <item>5. The Jurors Verdict upon that Bill:</item>
+               <item>6. The form of a Bill put to the 24, when called to view a Mine in queſtion.</item>
+               <item>7. Of Dialling and Levelling in gene<g ref="char:EOLhyphen"/>ral.</item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>ERRATA:</head>
+            <p>Page 3. line 9. for refera read <hi>rejera.</hi> pag. 25. line 2. for eepired read <hi>expired</hi> Art. 41. line 1. for Mines read <hi>Miners.</hi> Art. 46. line 3. for foorts r. <hi>foots.</hi> p. 85. l. 21. for conveted r. <hi>converted.</hi> p. 86. l. 4. for 26. r. 46.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:29368:62"/>
+            <head>ADVERTISEMENT.</head>
+            <p>NOt long ſince having buſineſs (upon the account of Mines) to ride over the weſt of <hi>England,</hi> and chiefly the Counties of <hi>Devonſhire</hi> and <hi>Cornwal:</hi> This is therefore to let all perſons know, (whoſe inclinations directs them to deal in Mines) That there is three Mines in the Coun<g ref="char:EOLhyphen"/>ties aforeſaid, which (if prudently and well ma<g ref="char:EOLhyphen"/>naged) might yield great advantage and profit to the Undertakers: They are <hi>20</hi> or <hi>30</hi> miles diſtant one from another. Here follows a brief account of one.</p>
+            <p>'Tis an Old Mine not wrought ſince the momory of man; It had formerly an Addit or Sough brought up to it, (but no one knoweth how long ſince) which is yet to be ſeen: This Water-pipe was cut all open work to the Graſs, and when it was brought up to the Mine was ſix or ſeven yards deep and in length about a hundred; being more like a Ditch than a Sough: 'Tis not wrought above <hi>8</hi> or <hi>9</hi> fathoms deep: There might be a Sough brought up (with reaſonable charge) to lay it dry <hi>14</hi> or <hi>15</hi> fathoms. 'Tis good Ore, which yields ſome Sil<g ref="char:EOLhyphen"/>ver: When it was laſt wrought it was for Refining. Any that deſires to know further of it may hear of me at the <hi>Paracelſus,</hi> a Chymiſt in <hi>Old Fiſhſtreet, London.</hi>
+            </p>
+         </div>
+         <div type="glossary_of_mining_terms">
+            <pb facs="tcp:29368:62"/>
+            <head>AN EXPLANATION OF THE MINERS Terms of Art Uſed in this BOOK.</head>
+            <p>
+               <hi>BAr-maſter</hi> is he which keepeth the Gage or Diſh to meaſure all Miners Ore, he or his Servant be<g ref="char:EOLhyphen"/>ing preſent when meaſured.</p>
+            <p>
+               <hi>Brazen-Diſh</hi> is the Standard by which the other Diſhes are gaged, and is kept in the King's Hall.</p>
+            <p>
+               <hi>Cavers</hi> are any poor people that go about the Mines to beg or ſteal Ore from the Miners.</p>
+            <pb facs="tcp:29368:63"/>
+            <p>
+               <hi>Coes</hi> are little Houſes which the Miners make over their Mines to lay the Ore in.</p>
+            <p>
+               <hi>Cope</hi> is 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> for every Load of Ore, nine Diſhes making one Load.</p>
+            <p>
+               <hi>Croſses</hi> are two Nicks cut on the Superficies of the Earth, thus <g ref="char:cross">✚</g> which the <hi>Miners</hi> make when they take the Ground to dig for Ore; This Croſs gives the <hi>Miners</hi> three days liberty to make and ſet on <hi>Stows:</hi> As many of theſe Croſſes as the <hi>Miner</hi> makes, ſo many Meers of Ground he may have in that Vein, if he ſet on Stows within three days after the making his Croſs or Croſ<g ref="char:EOLhyphen"/>ſes; but if he make but one Croſs, and a ſtander by makes the ſecond, and a ſtranger makes the third, eve<g ref="char:EOLhyphen"/>ry one is ſerved with the next Meer, according as they have firſt or laſt, ſooner or later made their Croſs or Croſſes upon the Ground.</p>
+            <pb facs="tcp:29368:63"/>
+            <p>
+               <hi>Diſh</hi> is a Trough made of Wood, about 28 Inches long, 4 Inches deep and 6 Inches wide; by which all <hi>Mi<g ref="char:EOLhyphen"/>ners</hi> meaſure their Ore: If any be taken ſelling their Ore, not firſt mea<g ref="char:EOLhyphen"/>ſuring it by the Bar-maſters Diſh, and paying the Kings Duties, the <hi>Miners</hi> incur that forfeiture which the 17th. Article has impoſed upon them.</p>
+            <p>
+               <hi>Drift</hi> is a paſſage thus <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cut out under the Earth betwixt Shaft and Shaft, or Turn and Turn, or a paſſage or way wrought under the Earth to the end of a Meer of ground or part of a Meer.</p>
+            <p>
+               <hi>Farmer</hi> is the Lord of the Field; or one that farms the Lot and Cope of the King.</p>
+            <p>
+               <hi>Fodder of Lead</hi> at the Mines con<g ref="char:EOLhyphen"/>tains Twenty two hundred and a half weight, though in <hi>London</hi> but Twenty hundred weight.</p>
+            <pb facs="tcp:29368:64"/>
+            <p>
+               <hi>Foreſtid Ore</hi> is Ore that is gotten out of Earth and Dirt that hath been waſht and Ore taken from it before.</p>
+            <p>
+               <hi>Forfield</hi> is the furtheſt place that a man has wrought in his ground; or the end of a Meer above-ground.</p>
+            <p>
+               <hi>Groove</hi> is the Shaft or Pit ſunk in<g ref="char:EOLhyphen"/>to the Earth; they are ſometimes ſunk in the Vein and ſometimes out.</p>
+            <p>
+               <hi>Hack</hi> is a Tool that <hi>Miners</hi> uſe like a Mattock.</p>
+            <p>
+               <hi>Hade</hi> is where any Shaft or Turn goes deſcending like the ſide of a Houſe, or like the deſcent of a ſteep Hill, then it is ſaid to hade.</p>
+            <p>
+               <hi>Load</hi> is nine Diſhes of Ore; each Diſh being about half a hun<g ref="char:EOLhyphen"/>dred weight.</p>
+            <p>
+               <hi>Lobs</hi> are ſteps that aſcend or deſ<g ref="char:EOLhyphen"/>cend within the Mines, as ſtairs up to and down from a Chamber.</p>
+            <p>
+               <hi>Lot</hi> is the 13<hi rend="sup">th.</hi> Diſh, Meaſure or Part of the <hi>Miners</hi> Ore, which the Bar-maſter takes up for the King or the Farmer.</p>
+            <pb facs="tcp:29368:64"/>
+            <p>
+               <hi>Meer</hi> contains Twenty nine yards in length in any Vein.</p>
+            <p>
+               <hi>Meer-ſtake</hi> is a pin of wood drove into the ſuperficies of the Earth, to ſhew the extent or end of a Meer of ground.</p>
+            <p>
+               <hi>Old works</hi> are ſuch that are either fallen in or ſtand unwrought.</p>
+            <p>
+               <hi>Pipe</hi> is where the Ore runs for<g ref="char:EOLhyphen"/>wards endways in a hole, and doth not ſink downwards or in a Vein.</p>
+            <p>
+               <hi>Pee</hi> is where two Veins meet and croſs one another thus <g ref="char:cross">✚</g> the place where they meet is called the <hi>Pee.</hi>
+            </p>
+            <p>
+               <hi>Poſſeſſion</hi> is the right to a Meer of ground, which <hi>Miners</hi> enjoy, by having Stows upon that ground; and it is taken generally for the Stows themſelves; For it is the Stows that give Poſſeſſion.</p>
+            <p>
+               <hi>Pawn</hi> is a Pledge of Money put into the Bar-maſters hand at the time when the Plaintiff cauſes the Bar-maſter to arreſt the Mine.</p>
+            <pb facs="tcp:29368:65"/>
+            <p>
+               <hi>Pick</hi> is a Tool the Miners uſe to cut down the Cliffs and Rocks of ſtone to make paſſages in the Earth.</p>
+            <p>
+               <hi>Rither</hi> is a Stone or thin Cliff that lies in the Vein; The Ore ſometimes runs on both ſides it; Sometimes this Rither is ſo thick, it parts the Vein and makes one Vein two.</p>
+            <p>
+               <hi>Quarter-Cord</hi> is ſeven yards and a quarter, which the <hi>Miner</hi> hath croſs ways of his Vein on either ſide; for liberty to lay his Earth, Stones and Rubbiſh on, and to waſh and dreſs up his Ore.</p>
+            <p>
+               <hi>Rake</hi> is the ſame with a Vein.</p>
+            <p>
+               <hi>Shaft</hi> is the ſame with a Groove or Pit; They are ſunk ſome ten ſome twenty Fathoms deep into the Earth, more or leſs.</p>
+            <p>
+               <hi>Stows</hi> are ſeven pieces of Wood (ſet upon the ſuperficies of the Earth) faſtened with pins of wood together; Two are called <hi>Soul-trees;</hi> two
+<pb facs="tcp:29368:65"/>
+               <hi>Stow-blades,</hi> two <hi>Hang benches</hi> and a <hi>Spindle:</hi> Theſe <hi>Stows</hi> give a <hi>Mi<g ref="char:EOLhyphen"/>ner,</hi> or any perſon that owns them, as good right to a Meer or Meers of ground, (ſo that every Meer have a pair of <hi>Stows</hi> ſet on them) as a Deed of Conveyance doth to any Purcha<g ref="char:EOLhyphen"/>ſer.</p>
+            <p>
+               <hi>Stool</hi> is where the <hi>Miners</hi> leave digging deeper, and work in the ends forwards; the end before you is called the <hi>Stool.</hi>
+            </p>
+            <p>
+               <hi>Spindle</hi> is a piece of wood faſtned into either <hi>Stow-blade.</hi>
+            </p>
+            <p>
+               <hi>Smytham</hi> is Lead Ore ſtamp'd and pounded down, like Powder or Sand, to cleanſe the Stones and Earth from the Ore.</p>
+            <p>
+               <hi>Sough</hi> is alſo called an <hi>Addit;</hi> It is a paſſage like a Vault cut out under the Earth, to drain the water from the Mines.</p>
+            <p>
+               <hi>Smelting houſe</hi> is a Houſe where they run and melt the Ore into
+<pb facs="tcp:29368:66"/>Lead; One of theſe will run a Tun in ten or twelve hours, A Fodder is their uſual days work; that is, Twenty two hundred and an half weight.</p>
+            <p>
+               <hi>Sumps</hi> are holes ſunk in <hi>Drifts</hi> to to the depth of two or three yards, more or leſs.</p>
+            <p>
+               <hi>Twenty four men,</hi> they are Twenty four men choſen every half year to redreſs the grievances of the <hi>Mines</hi> and <hi>Miners;</hi> But every man gene<g ref="char:EOLhyphen"/>rally ſerves his year when choſen.</p>
+            <p>
+               <hi>Next Taker</hi> is he that makes the next croſs, or he that hath the next Meer in poſſeſſion.</p>
+            <p>
+               <hi>Turn</hi> is a Pit ſunk in ſome part of a Drift; If the <hi>Mine</hi> be deep, there is many of theſe <hi>Turns</hi> one below another.</p>
+            <p>
+               <hi>Vein</hi> is that which is bounded with <hi>Woughs,</hi> and contains <hi>Ore, Spar, Cauck, Clay, Chirt, Croil, Brown-hen, Pil<g ref="char:EOLhyphen"/>cher-chirt, Gur,</hi> which the Philoſo<g ref="char:EOLhyphen"/>phers
+<pb facs="tcp:29368:66"/>calls the Mother of Mettals, and ſoil of all colours ſometimes. When it bears Ore it is called a quick <hi>Vein,</hi> when no Ore a dead <hi>Vein.</hi>
+            </p>
+            <p>
+               <hi>Woughs</hi> are the Walls or ſides ſometimes of hard ſtone, and ſome<g ref="char:EOLhyphen"/>times ſoft; when ſoft, then the <hi>Mi<g ref="char:EOLhyphen"/>ners</hi> ſay they are rotten: Theſe are the bounds of an entry. Betwixt them all ſorts of Earth, Stones and Ore lieth, or, as Philoſophers ſay, groweth.</p>
+            <trailer>The End of the Explanation.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
